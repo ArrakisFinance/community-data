@@ -1,0 +1,43 @@
+{
+  "name": "Arrakis Vault whitelist",
+  "description": "Arrakis Vault whitelist by @ArrakisFinance",
+  "author": "0mkar",
+  "version": "0.0.1",
+  "vaults": [
+    {
+      "name": "Arrakis Vault V1 WMATIC/WETH",
+      "address": "0xdc0eca1d69ab51c2b2171c870a1506499081da5b",
+      "gauge": "0xEdF8C3aD1186d6ecB8b8cd08230b9434768252A5"
+    },
+    {
+      "name": "Arrakis Vault V1 WMATIC/USDC",
+      "address": "0x4520c823e3a84ddfd3f99cdd01b2f8bf5372a82a",
+      "gauge": "0x9941c03d31bc8b3aa26e363f7dd908725e1a21bb"
+    },
+    {
+      "name": "Arrakis Vault V1 USDC/WETH",
+      "address": "0xa173340f1e942c2845bcbce8ebd411022e18eb13",
+      "gauge": "0x33d1ad9cd88a509397cd924c2d7613c285602c20"
+    },
+    {
+      "name": "Arrakis Vault V1 WBTC/WETH",
+      "address": "0x590217ef04bcb96ff6da991ab070958b8f9e77f0",
+      "gauge": "0xfB5B8515b011b073dEfB5FA63B05A7190a5207b3"
+    },
+    {
+      "name": "Arrakis Vault V1 USDC/USDT",
+      "address": "0x869a75d6f7ae09810c9083684cf22e9a618c8b05",
+      "gauge": "0x50be234a8405c32c15712850377deec768628bc9"
+    },
+    {
+      "name": "Arrakis Vault V1 WMATIC/AAVE",
+      "address": "0x3cc255339a27efa6c38bee880f4061ab9b231732",
+      "gauge": "0xdb01724cd5885d76438d2b54097c9dD8DBF443A1"
+    },
+    {
+      "name": "Arrakis Vault V1 USDC/miMATIC",
+      "address": "0x4fe4d754d1b2feaad266332cfe3d3fcaa632c953",
+      "gauge": "0x5e65a272fb0d594c7447f05928011c4f7f53c808"
+    }
+  ]
+}
