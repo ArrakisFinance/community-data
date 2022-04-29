@@ -95,6 +95,18 @@
       "gauge": ""
     },
     {
+      "name": "ArrakisVault V1 WMATIC/GYSR",
+      "address": "0xe61cb0BCa82DB9E57E34C75e4470b79a8F69eDB4",
+      "chainId": 137,
+      "gauge": ""
+    },
+    {
+      "name": "ArrakisVault V1 USDC/PAR",
+      "address": "0xC1DF4E2fd282e39346422e40C403139CD633Aacd",
+      "chainId": 137,
+      "gauge": ""
+    },
+    {
       "name": "Arrakis Vault V1 sUSD/DAI",
       "address": "0x88ccDBbA89E073C5DC08B9c84dfc1fDc152c0dAc",
       "chainId": 10,
