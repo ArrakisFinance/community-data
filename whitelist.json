@@ -47,6 +47,12 @@
       "gauge": "0x5e65a272fb0d594c7447f05928011c4f7f53c808"
     },
     {
+      "name": "Arrakis Vault V1 USDC/USDT",
+      "address": "0x2817E729178471DBAC8b1FC190b4fd8e6F3984e3",
+      "chainId": 137,
+      "gauge": "0x56C5b00Bdeb3cb8aDF745650599f9AdeF3c40275"
+    },
+    {
       "name": "Arrakis Vault V1 USDC/agEUR",
       "address": "0x1644de0A8E54626b54AC77463900FcFFD8B94542",
       "chainId": 137,
