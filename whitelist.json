@@ -143,6 +143,12 @@
       "gauge": ""
     },
     {
+      "name": "Arrakis Vault V1 MNYe/USDC",
+      "address": "0x94AF0AD22515E2A1C3af2390A185EC92b4EC77C5",
+      "chainId": 10,
+      "gauge": ""
+    },
+    {
       "name": "Arrakis Vault V1 DAI/USDC",
       "address": "0x50379f632ca68D36E50cfBC8F78fe16bd1499d1e",
       "chainId": 1,
