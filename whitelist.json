@@ -191,12 +191,6 @@
       "gauge": ""
     },
     {
-      "name": "Arrakis Vault V1 DAI/FRAX",
-      "address": "0xb1Cfdc7370550f5e421E1bf0BF3CADFaDF3C4141",
-      "chainId": 1,
-      "gauge": ""
-    },
-    {
       "name": "Arrakis Vault V1 OHM/FRAX",
       "address": "0x61a0C8d4945A61bF26c13e07c30AF1f1ca67b473",
       "chainId": 1,
@@ -349,6 +343,12 @@
     {
       "name": "Arrakis Vault V1 USDC/USDT",
       "address": "0xD2eeC91055F07fE24C9cCB25828ecfEFd4be0c41",
+      "chainId": 1,
+      "gauge": ""
+    },
+    {
+      "name": "Arrakis Vault V1 PAR/USDC",
+      "address": "0x092a51b356930d907570Efec1fc94f3c591B7239",
       "chainId": 1,
       "gauge": ""
     }
