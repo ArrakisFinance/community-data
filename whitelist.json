@@ -351,6 +351,12 @@
       "address": "0x092a51b356930d907570Efec1fc94f3c591B7239",
       "chainId": 1,
       "gauge": ""
+    },
+    {
+      "name": "CYG Vault WBTC/WETH",
+      "address": "0x2fDB380E4801Fae350F9Bd844BeC79C78dCfa43e",
+      "chainId": 137,
+      "gauge": ""
     }
   ]
 }
