@@ -353,9 +353,15 @@
       "gauge": ""
     },
     {
-      "name": "CYG Vault WBTC/WETH",
+      "name": "Arrakis Vault V1 WBTC/WETH",
       "address": "0x2fDB380E4801Fae350F9Bd844BeC79C78dCfa43e",
       "chainId": 137,
+      "gauge": ""
+    },
+    {
+      "name": "Arrakis Vault V1 QI/WETH",
+      "address": "0x65Fbf30f29C7626385f78Dbc41702d97b9cD486a",
+      "chainId": 10,
       "gauge": ""
     }
   ]
