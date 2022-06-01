@@ -375,6 +375,18 @@
       "address": "0x8f9Ab50FC5C0d2EAD5953A2836D22E48e5788151",
       "chainId": 10,
       "gauge": ""  
+    },
+    {
+      "name": "Arrakis Vault V1 OP/WETH",
+      "address": "0xD1DCE56F7D8300D43d8b7d3b67650ddF9b2CAF54",
+      "chainId": 10,
+      "gauge": ""  
+    },
+    {
+      "name": "Arrakis Vault V1 uAD/USDC",
+      "address": "0xA9514190cBBaD624c313Ea387a18Fd1dea576cbd",
+      "chainId": 1,
+      "gauge": ""  
     }
   ]
 }
