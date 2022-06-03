@@ -393,6 +393,18 @@
       "address": "0xef4c2568Be52DDb79a4AfA7147f15EE600b7E335",
       "chainId": 1,
       "gauge": ""
+    },
+    {
+      "name": "Arrakis Vault V1 FAITH/USDC",
+      "address": "0x39703B0B92463c3fb3A0E9ea90926aA4f6c3283e",
+      "chainId": 1,
+      "gauge": ""
+    },
+    {
+      "name": "Arrakis Vault V1 MILAREPA/USDC",
+      "address": "0xa879dc95609824127C91EfB6eAc2270b4546D29f",
+      "chainId": 1,
+      "gauge": ""
     }
   ]
 }
