@@ -405,6 +405,12 @@
       "address": "0xa879dc95609824127C91EfB6eAc2270b4546D29f",
       "chainId": 1,
       "gauge": ""
+    },
+    {
+      "name": "Arrakis Vault V1 BREAD/DAI",
+      "address": "0x3055C602454ddE1BDa3e98B1bCfD2Ed68ab9789E",
+      "chainId": 137,
+      "gauge": ""
     }
   ]
 }
