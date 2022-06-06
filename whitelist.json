@@ -411,6 +411,12 @@
       "address": "0x3055C602454ddE1BDa3e98B1bCfD2Ed68ab9789E",
       "chainId": 137,
       "gauge": ""
+    },
+    {
+      "name": "Arrakis Vault V1 INDEX/WETH",
+      "address": "0x4f93825A4D7f58899693C64f9b2cbBAC3B5b04ab",
+      "chainId": 1,
+      "gauge": ""
     }
   ]
 }
