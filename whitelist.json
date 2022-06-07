@@ -417,6 +417,12 @@
       "address": "0x4f93825A4D7f58899693C64f9b2cbBAC3B5b04ab",
       "chainId": 1,
       "gauge": ""
+    },
+    {
+      "name": "Arrakis Vault V1 UBT/USDC",
+      "address": "0x8DE40d47a3cb47E5614BB970A1070d1B96e1197d",
+      "chainId": 137,
+      "gauge": ""
     }
   ]
 }
