@@ -429,6 +429,12 @@
       "address": "0x8DE40d47a3cb47E5614BB970A1070d1B96e1197d",
       "chainId": 137,
       "gauge": ""
+    },
+    {
+      "name": "Arrakis Vault V1 USDC/CAW",
+      "address": "0xF920baf4fF3e803244C680FFdd468677f50C07B7",
+      "chainId": 1,
+      "gauge": ""
     }
   ]
 }
