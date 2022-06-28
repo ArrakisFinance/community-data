@@ -10,7 +10,8 @@
       "chainId": 137,
       "gauge": {
         "address": "0xEdF8C3aD1186d6ecB8b8cd08230b9434768252A5",
-        "rewardToken": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270"
+        "rewardToken": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+        "rewardLength": 2419200
       }
     },
     {
@@ -19,7 +20,8 @@
       "chainId": 137,
       "gauge": {
         "address": "0x9941c03d31bc8b3aa26e363f7dd908725e1a21bb",
-        "rewardToken": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270"
+        "rewardToken": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+        "rewardLength": 2419200
       }
     },
     {
@@ -28,7 +30,8 @@
       "chainId": 137,
       "gauge": {
         "address": "0x33d1ad9cd88a509397cd924c2d7613c285602c20",
-        "rewardToken": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270"
+        "rewardToken": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+        "rewardLength": 2419200
       }
     },
     {
@@ -37,7 +40,8 @@
       "chainId": 137,
       "gauge": {
         "address": "0xfB5B8515b011b073dEfB5FA63B05A7190a5207b3",
-        "rewardToken": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270"
+        "rewardToken": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+        "rewardLength": 2419200
       }
     },
     {
@@ -46,7 +50,8 @@
       "chainId": 137,
       "gauge": {
         "address": "0x50be234a8405c32c15712850377deec768628bc9",
-        "rewardToken": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270"
+        "rewardToken": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+        "rewardLength": 2419200
       }
     },
     {
@@ -55,7 +60,8 @@
       "chainId": 137,
       "gauge": {
         "address": "0xdb01724cd5885d76438d2b54097c9dD8DBF443A1",
-        "rewardToken": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270"
+        "rewardToken": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+        "rewardLength": 2419200
       }
     },
     {
@@ -64,7 +70,8 @@
       "chainId": 137,
       "gauge": {
         "address": "0x5e65a272fb0d594c7447f05928011c4f7f53c808",
-        "rewardToken": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270"
+        "rewardToken": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+        "rewardLength": 2419200
       }
     },
     {
@@ -73,7 +80,8 @@
       "chainId": 137,
       "gauge": {
         "address": "0x56C5b00Bdeb3cb8aDF745650599f9AdeF3c40275",
-        "rewardToken": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270"
+        "rewardToken": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+        "rewardLength": 2419200
       }
     },
     {
@@ -472,7 +480,8 @@
       "chainId": 1,
       "gauge": {
         "address": "0x5c00BE319ECF60Ec35D00094d192e97BeCB4d06c",
-        "rewardToken": "0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32"
+        "rewardToken": "0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32",
+        "rewardLength": 604800
       }
     }
   ]
