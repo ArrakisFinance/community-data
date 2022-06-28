@@ -368,25 +368,25 @@
       "name": "Arrakis Vault V1 GYSR/WETH",
       "address": "0xeD005C9729F6450d89311e7BbdD54867db45aE05",
       "chainId": 10,
-      "gauge": ""  
+      "gauge": ""
     },
     {
       "name": "Arrakis Vault V1 USDC/DAI",
       "address": "0x8f9Ab50FC5C0d2EAD5953A2836D22E48e5788151",
       "chainId": 10,
-      "gauge": ""  
+      "gauge": ""
     },
     {
       "name": "Arrakis Vault V1 WETH/OP",
       "address": "0xD1DCE56F7D8300D43d8b7d3b67650ddF9b2CAF54",
       "chainId": 10,
-      "gauge": ""  
+      "gauge": ""
     },
     {
       "name": "Arrakis Vault V1 uAD/USDC",
       "address": "0xA9514190cBBaD624c313Ea387a18Fd1dea576cbd",
       "chainId": 1,
-      "gauge": ""  
+      "gauge": ""
     },
     {
       "name": "Arrakis Vault V1 FAITH/MILAREPA",
@@ -446,6 +446,12 @@
       "name": "Arrakis Vault V1 wstETH/WETH",
       "address": "0xf8B735e990B32a985801e5f56eF353dE9cF696e9",
       "chainId": 1,
+      "gauge": ""
+    },
+    {
+      "name": "Arrakis Vault V1 USDC/RBW",
+      "address": "0x9cC7877692DDDD51177dBEa2b73407Bd59097a99",
+      "chainId": 137,
       "gauge": ""
     }
   ]
