@@ -12,7 +12,8 @@ Arrakis whitelist of Vaults
       "chainId": 137,
       "gauge": {
         "address": "0xEdF8C3aD1186d6ecB8b8cd08230b9434768252A5",
-        "rewardToken": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270"
+        "rewardToken": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+        "rewardLength": 608000
       }
     },
 
