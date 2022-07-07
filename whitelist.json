@@ -2,451 +2,487 @@
   "name": "Arrakis Vault whitelist",
   "description": "Arrakis Vault whitelist by @ArrakisFinance",
   "author": "0mkar",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "vaults": [
     {
       "name": "Arrakis Vault V1 WMATIC/WETH",
       "address": "0xdc0eca1d69ab51c2b2171c870a1506499081da5b",
       "chainId": 137,
-      "gauge": "0xEdF8C3aD1186d6ecB8b8cd08230b9434768252A5"
+      "gauge": {
+        "address": "0xEdF8C3aD1186d6ecB8b8cd08230b9434768252A5",
+        "rewardToken": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+        "rewardLength": 2419200
+      }
     },
     {
       "name": "Arrakis Vault V1 WMATIC/USDC",
       "address": "0x4520c823e3a84ddfd3f99cdd01b2f8bf5372a82a",
       "chainId": 137,
-      "gauge": "0x9941c03d31bc8b3aa26e363f7dd908725e1a21bb"
+      "gauge": {
+        "address": "0x9941c03d31bc8b3aa26e363f7dd908725e1a21bb",
+        "rewardToken": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+        "rewardLength": 2419200
+      }
     },
     {
       "name": "Arrakis Vault V1 USDC/WETH",
       "address": "0xa173340f1e942c2845bcbce8ebd411022e18eb13",
       "chainId": 137,
-      "gauge": "0x33d1ad9cd88a509397cd924c2d7613c285602c20"
+      "gauge": {
+        "address": "0x33d1ad9cd88a509397cd924c2d7613c285602c20",
+        "rewardToken": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+        "rewardLength": 2419200
+      }
     },
     {
       "name": "Arrakis Vault V1 WBTC/WETH",
       "address": "0x590217ef04bcb96ff6da991ab070958b8f9e77f0",
       "chainId": 137,
-      "gauge": "0xfB5B8515b011b073dEfB5FA63B05A7190a5207b3"
+      "gauge": {
+        "address": "0xfB5B8515b011b073dEfB5FA63B05A7190a5207b3",
+        "rewardToken": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+        "rewardLength": 2419200
+      }
     },
     {
       "name": "Arrakis Vault V1 USDC/USDT",
       "address": "0x869a75d6f7ae09810c9083684cf22e9a618c8b05",
       "chainId": 137,
-      "gauge": "0x50be234a8405c32c15712850377deec768628bc9"
+      "gauge": {
+        "address": "0x50be234a8405c32c15712850377deec768628bc9",
+        "rewardToken": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+        "rewardLength": 2419200
+      }
     },
     {
       "name": "Arrakis Vault V1 WMATIC/AAVE",
       "address": "0x3cc255339a27efa6c38bee880f4061ab9b231732",
       "chainId": 137,
-      "gauge": "0xdb01724cd5885d76438d2b54097c9dD8DBF443A1"
+      "gauge": {
+        "address": "0xdb01724cd5885d76438d2b54097c9dD8DBF443A1",
+        "rewardToken": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+        "rewardLength": 2419200
+      }
     },
     {
       "name": "Arrakis Vault V1 USDC/miMATIC",
       "address": "0x4fe4d754d1b2feaad266332cfe3d3fcaa632c953",
       "chainId": 137,
-      "gauge": "0x5e65a272fb0d594c7447f05928011c4f7f53c808"
+      "gauge": {
+        "address": "0x5e65a272fb0d594c7447f05928011c4f7f53c808",
+        "rewardToken": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+        "rewardLength": 2419200
+      }
     },
     {
       "name": "Arrakis Vault V1 USDC/USDT",
       "address": "0x2817E729178471DBAC8b1FC190b4fd8e6F3984e3",
       "chainId": 137,
-      "gauge": "0x56C5b00Bdeb3cb8aDF745650599f9AdeF3c40275"
+      "gauge": {
+        "address": "0x56C5b00Bdeb3cb8aDF745650599f9AdeF3c40275",
+        "rewardToken": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+        "rewardLength": 2419200
+      }
     },
     {
       "name": "Arrakis Vault V1 USDC/agEUR",
       "address": "0x1644de0A8E54626b54AC77463900FcFFD8B94542",
       "chainId": 137,
-      "gauge": ""
+      "gauge": null
     },
     {
       "name": "Arrakis Vault V1 FRAX/SOLACE",
       "address": "0x38e7e05Dfd9fa3dE80dB0e7AC03AC57Fa832C78A",
       "chainId": 137,
-      "gauge": ""
+      "gauge": null
     },
     {
       "name": "Arrakis Vault V1 WETH/DAI",
       "address": "0x21F65eA5bf55c48A19b195d5d8CB0f708018Ab6c",
       "chainId": 137,
-      "gauge": ""
+      "gauge": null
     },
     {
       "name": "Arrakis Vault V1 USDC/DAI",
       "address": "0x2aF769150510Ad9eb37D2e63e1E483114d995cBA",
       "chainId": 137,
-      "gauge": ""
+      "gauge": null
     },
     {
       "name": "Arrakis Vault V1 USDC/iMATIC-FLI-P",
       "address": "0xB709ea61e30735D7Fafe2F6FD5C3F4c4Cf9fcE4E",
       "chainId": 137,
-      "gauge": ""
+      "gauge": null
     },
     {
       "name": "Arrakis Vault V1 WMATIC/iMATIC-FLI-P",
       "address": "0x014e2197f50db9d33bF867A96Dc62aD00B7fE711",
       "chainId": 137,
-      "gauge": ""
+      "gauge": null
     },
     {
       "name": "Arrakis Vault V1 iBTC-FLI-P/WBTC",
       "address": "0x964c15A8cA8f679f4261664293f422d4Ead2465B",
       "chainId": 137,
-      "gauge": ""
+      "gauge": null
     },
     {
       "name": "Arrakis Vault V1 WBTC/BTC2x-FLI-P",
       "address": "0xD15cA75533f58Ab1ec5FCCad1475a6BDb4bE6DC3",
       "chainId": 137,
-      "gauge": ""
+      "gauge": null
     },
     {
       "name": "ArrakisVault V1 WMATIC/GYSR",
       "address": "0xe61cb0BCa82DB9E57E34C75e4470b79a8F69eDB4",
       "chainId": 137,
-      "gauge": ""
+      "gauge": null
     },
     {
       "name": "ArrakisVault V1 USDC/PAR",
       "address": "0xC1DF4E2fd282e39346422e40C403139CD633Aacd",
       "chainId": 137,
-      "gauge": ""
+      "gauge": null
     },
     {
       "name": "Arrakis Vault V1 sUSD/DAI",
       "address": "0x88ccDBbA89E073C5DC08B9c84dfc1fDc152c0dAc",
       "chainId": 10,
-      "gauge": ""
+      "gauge": null
     },
     {
       "name": "Arrakis Vault V1 WETH/SNX",
       "address": "0x83bEeFB4cA39af649D03969B442c0E9F4E1732D8",
       "chainId": 10,
-      "gauge": ""
+      "gauge": null
     },
     {
       "name": "Arrakis Vault V1 THALES/WETH",
       "address": "0xac6705BC7f6a35eb194bdB89066049D6f1B0B1b5",
       "chainId": 10,
-      "gauge": ""
+      "gauge": null
     },
     {
       "name": "Arrakis Vault V1 WETH/LYRA",
       "address": "0x70535C46ce04181adf749f34B65B6365164d6B6E",
       "chainId": 10,
-      "gauge": ""
+      "gauge": null
     },
     {
       "name": "Arrakis Vault V1 WETH/AELIN",
       "address": "0x665d8D87ac09Bdbc1222B8B9E72Ddcb82f76B54A",
       "chainId": 10,
-      "gauge": ""
+      "gauge": null
     },
     {
       "name": "Arrakis Vault V1 MNYe/USDC",
       "address": "0x94AF0AD22515E2A1C3af2390A185EC92b4EC77C5",
       "chainId": 10,
-      "gauge": ""
+      "gauge": null
     },
     {
       "name": "Arrakis Vault V1 DAI/USDC",
       "address": "0x50379f632ca68D36E50cfBC8F78fe16bd1499d1e",
       "chainId": 1,
-      "gauge": ""
+      "gauge": null
     },
     {
       "name": "Arrakis Vault V1 FEI/USDC",
       "address": "0xCf84a3dC12319531E3deBD48C86E68eAeAfF224a",
       "chainId": 1,
-      "gauge": ""
+      "gauge": null
     },
     {
       "name": "Arrakis Vault V1 DAI/USDC",
       "address": "0xAbDDAfB225e10B90D798bB8A886238Fb835e2053",
       "chainId": 1,
-      "gauge": ""
+      "gauge": null
     },
     {
       "name": "Arrakis Vault V1 agEUR/USDC",
       "address": "0xEDECB43233549c51CC3268b5dE840239787AD56c",
       "chainId": 1,
-      "gauge": ""
+      "gauge": null
     },
     {
       "name": "Arrakis Vault V1 DAI/FEI",
       "address": "0x3D1556e84783672f2a3bd187a592520291442539",
       "chainId": 1,
-      "gauge": ""
+      "gauge": null
     },
     {
       "name": "Arrakis Vault V1 agEUR/WETH",
       "address": "0x857E0B2eD0E82D5cDEB015E77ebB873C47F99575",
       "chainId": 1,
-      "gauge": ""
+      "gauge": null
     },
     {
       "name": "Arrakis Vault V1 DAI/FRAX",
       "address": "0xb1Cfdc7370550f5e421E1bf0BF3CADFaDF3C4141",
       "chainId": 1,
-      "gauge": ""
+      "gauge": null
     },
     {
       "name": "Arrakis Vault V1 OHM/FRAX",
       "address": "0x61a0C8d4945A61bF26c13e07c30AF1f1ca67b473",
       "chainId": 1,
-      "gauge": ""
+      "gauge": null
     },
     {
       "name": "Arrakis Vault V1 ETHMAXY/WETH",
       "address": "0x18D53f4953AD14236602DA05eFAfc0Df4f5d064D",
       "chainId": 1,
-      "gauge": ""
+      "gauge": null
     },
     {
       "name": "Arrakis Vault V1 ETH2x-FLI/WETH",
       "address": "0x77CDd9e097f34C1fa861DAEb6823dE741fAb2321",
       "chainId": 1,
-      "gauge": ""
+      "gauge": null
     },
     {
       "name": "Arrakis Vault V1 USDC/WETH",
       "address": "0xa6c49FD13E50a30C65E6C8480aADA132011D0613",
       "chainId": 1,
-      "gauge": ""
+      "gauge": null
     },
     {
       "name": "Arrakis Vault V1 icETH/WETH",
       "address": "0x0D2A2Df39436b5c5f986552869124bA29b7Df1AC",
       "chainId": 1,
-      "gauge": ""
+      "gauge": null
     },
     {
       "name": "Arrakis Vault V1 GEL/WETH",
       "address": "0xae666F497e3b03415503785df36f795e6D91d4b3",
       "chainId": 1,
-      "gauge": ""
+      "gauge": null
     },
     {
       "name": "Arrakis Vault V1 USDC/POP",
       "address": "0xBBA11b41407dF8793A89b44ee4b50AfAD4508555",
       "chainId": 1,
-      "gauge": ""
+      "gauge": null
     },
     {
       "name": "Arrakis Vault V1 USDC/FLOAT",
       "address": "0x4f38892c16bfbB4f4f7424EEfAa9767F4E922073",
       "chainId": 1,
-      "gauge": ""
+      "gauge": null
     },
     {
       "name": "Arrakis Vault V1 KP3R/WETH",
       "address": "0x39ae52f197e7Fc9FC481cA03cfaf661A26845Ec3",
       "chainId": 1,
-      "gauge": ""
+      "gauge": null
     },
     {
       "name": "Arrakis Vault V1 USDC/WETH",
       "address": "0x00608B2230FbCD2b85cF8506006979A3A888EbdF",
       "chainId": 1,
-      "gauge": ""
+      "gauge": null
     },
     {
       "name": "Arrakis Vault V1 WETH/JPEG",
       "address": "0xE0ABCe449a0E368Eaf657F6F1c0eD5711174c46f",
       "chainId": 1,
-      "gauge": ""
+      "gauge": null
     },
     {
       "name": "Arrakis Vault V1 WETH/ENS",
       "address": "0x7c687f775A3b73BBAb0E15832F24caaB5D53bDDe",
       "chainId": 1,
-      "gauge": ""
+      "gauge": null
     },
     {
       "name": "Arrakis Vault V1 WETH/ENS",
       "address": "0x7c687f775A3b73BBAb0E15832F24caaB5D53bDDe",
       "chainId": 1,
-      "gauge": ""
+      "gauge": null
     },
     {
       "name": "Arrakis Vault V1 WBTC/WETH",
       "address": "0x4fd9AD3758cC0a3719b066E6FF796a9Ccf702Ac6",
       "chainId": 1,
-      "gauge": ""
+      "gauge": null
     },
     {
       "name": "Arrakis Vault V1 WBTC/WETH",
       "address": "0x8aEf042508eDe1801B8729580132a2c47E1AbF40",
       "chainId": 1,
-      "gauge": ""
+      "gauge": null
     },
     {
       "name": "Arrakis Vault V1 USDC/WETH",
       "address": "0x24416cba1772c283De3B41eB99E850E8321322Bc",
       "chainId": 1,
-      "gauge": ""
+      "gauge": null
     },
     {
       "name": "Arrakis Vault V1 BANK/WETH",
       "address": "0x472D0B0DDFE0BC02C27928b8BcbD67E65D07d48a",
       "chainId": 1,
-      "gauge": ""
+      "gauge": null
     },
     {
       "name": "Arrakis Vault V1 JPG/WETH",
       "address": "0x0A2022F517ad22330069049972F26763a7f0f7A3",
       "chainId": 1,
-      "gauge": ""
+      "gauge": null
     },
     {
       "name": "Arrakis Vault V1 agEUR/USDC",
       "address": "0x2bD9F7974Bc0E4Cb19B8813F8Be6034F3E772add",
       "chainId": 1,
-      "gauge": ""
+      "gauge": null
     },
     {
       "name": "Arrakis Vault V1 sILV2/WETH",
       "address": "0xF331e8FF24Ff56544c11cA680f84A2DB75ACF917",
       "chainId": 1,
-      "gauge": ""
+      "gauge": null
     },
     {
       "name": "Arrakis Vault V1 agEUR/WETH",
       "address": "0x26C2251801D2cfb5461751c984Dc3eAA358bdf0f",
       "chainId": 1,
-      "gauge": ""
+      "gauge": null
     },
     {
       "name": "Arrakis Vault V1 FEI/USDC",
       "address": "0x07BaA98c5CdeC970A3a4654f0fbb066404fF5fE0",
       "chainId": 1,
-      "gauge": ""
+      "gauge": null
     },
     {
       "name": "Arrakis Vault V1 UDT/WETH",
       "address": "0x48AC93d10e963a9F99682F53B62C257451E02940",
       "chainId": 1,
-      "gauge": ""
+      "gauge": null
     },
     {
       "name": "Arrakis Vault V1 USDC/WETH",
       "address": "0x74E8Df0a1A06F3B90D25af2536e605d7DFEFbcc7",
       "chainId": 1,
-      "gauge": ""
+      "gauge": null
     },
     {
       "name": "Arrakis Vault V1 SOS/WETH",
       "address": "0xD494eFe072Cb55a4D7F2CF589Bd2f718555AF9f4",
       "chainId": 1,
-      "gauge": ""
+      "gauge": null
     },
     {
       "name": "Arrakis Vault V1 USDC/USDT",
       "address": "0xD2eeC91055F07fE24C9cCB25828ecfEFd4be0c41",
       "chainId": 1,
-      "gauge": ""
+      "gauge": null
     },
     {
       "name": "Arrakis Vault V1 PAR/USDC",
       "address": "0x092a51b356930d907570Efec1fc94f3c591B7239",
       "chainId": 1,
-      "gauge": ""
+      "gauge": null
     },
     {
       "name": "Arrakis Vault V1 WBTC/WETH",
       "address": "0x2fDB380E4801Fae350F9Bd844BeC79C78dCfa43e",
       "chainId": 137,
-      "gauge": ""
+      "gauge": null
     },
     {
       "name": "Arrakis Vault V1 QI/WETH",
       "address": "0x65Fbf30f29C7626385f78Dbc41702d97b9cD486a",
       "chainId": 10,
-      "gauge": ""
+      "gauge": null
     },
     {
       "name": "Arrakis Vault V1 GYSR/WETH",
       "address": "0xeD005C9729F6450d89311e7BbdD54867db45aE05",
       "chainId": 10,
-      "gauge": ""  
+      "gauge": null  
     },
     {
       "name": "Arrakis Vault V1 USDC/DAI",
       "address": "0x8f9Ab50FC5C0d2EAD5953A2836D22E48e5788151",
       "chainId": 10,
-      "gauge": ""  
+      "gauge": null  
     },
     {
       "name": "Arrakis Vault V1 WETH/OP",
       "address": "0xD1DCE56F7D8300D43d8b7d3b67650ddF9b2CAF54",
       "chainId": 10,
-      "gauge": ""  
+      "gauge": null  
     },
     {
       "name": "Arrakis Vault V1 uAD/USDC",
       "address": "0xA9514190cBBaD624c313Ea387a18Fd1dea576cbd",
       "chainId": 1,
-      "gauge": ""  
+      "gauge": null  
     },
     {
       "name": "Arrakis Vault V1 FAITH/MILAREPA",
       "address": "0xef4c2568Be52DDb79a4AfA7147f15EE600b7E335",
       "chainId": 1,
-      "gauge": ""
+      "gauge": null
     },
     {
       "name": "Arrakis Vault V1 FAITH/USDC",
       "address": "0x39703B0B92463c3fb3A0E9ea90926aA4f6c3283e",
       "chainId": 1,
-      "gauge": ""
+      "gauge": null
     },
     {
       "name": "Arrakis Vault V1 MILAREPA/USDC",
       "address": "0xa879dc95609824127C91EfB6eAc2270b4546D29f",
       "chainId": 1,
-      "gauge": ""
+      "gauge": null
     },
     {
       "name": "Arrakis Vault V1 BREAD/DAI",
       "address": "0x3055C602454ddE1BDa3e98B1bCfD2Ed68ab9789E",
       "chainId": 137,
-      "gauge": ""
+      "gauge": null
     },
     {
       "name": "Arrakis Vault V1 INDEX/WETH",
       "address": "0x4f93825A4D7f58899693C64f9b2cbBAC3B5b04ab",
       "chainId": 1,
-      "gauge": ""
+      "gauge": null
     },
     {
       "name": "Arrakis Vault V1 GMI/WETH",
       "address": "0xea26D116a125385aD4f1e75B70eBCD135E59301E",
       "chainId": 1,
-      "gauge": ""
+      "gauge": null
     },
     {
       "name": "Arrakis Vault V1 POP/USDC",
       "address": "0x6dE0500211bc3140409B345Fa1a5289cb77Af1e4",
       "chainId": 137,
-      "gauge": ""
+      "gauge": null
     },
     {
       "name": "Arrakis Vault V1 UBT/USDC",
       "address": "0x8DE40d47a3cb47E5614BB970A1070d1B96e1197d",
       "chainId": 137,
-      "gauge": ""
+      "gauge": null
     },
     {
       "name": "Arrakis Vault V1 USDC/CAW",
       "address": "0xF920baf4fF3e803244C680FFdd468677f50C07B7",
       "chainId": 1,
-      "gauge": ""
+      "gauge": null
     },
     {
       "name": "Arrakis Vault V1 wstETH/WETH",
       "address": "0xf8B735e990B32a985801e5f56eF353dE9cF696e9",
       "chainId": 1,
-      "gauge": ""
+      "gauge": {
+        "address": "0x5c00BE319ECF60Ec35D00094d192e97BeCB4d06c",
+        "rewardToken": "0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32",
+        "rewardLength": 604800
+      }
     }
   ]
 }
