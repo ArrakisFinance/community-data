@@ -483,6 +483,12 @@
         "rewardToken": "0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32",
         "rewardLength": 604800
       }
+    },
+    {
+      "name": "Arrakis Vault V1 USDC/RBW",
+      "address": "0x9cC7877692DDDD51177dBEa2b73407Bd59097a99",
+      "chainId": 137,
+      "gauge": null
     }
   ]
 }
