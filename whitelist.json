@@ -489,6 +489,12 @@
       "address": "0x9cC7877692DDDD51177dBEa2b73407Bd59097a99",
       "chainId": 137,
       "gauge": null
-    }
+    },
+    {
+      "name": "Arrakis Vault V1 BUSD/DAI",
+      "address": "0xC798e1856BEC2aA84Be124471309106F573Ac744",
+      "chainId": 1,
+      "gauge": null
+    },
   ]
 }
