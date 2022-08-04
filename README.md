@@ -15,9 +15,8 @@ Arrakis whitelist of Vaults
         "rewardToken": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
         "rewardLength": 608000
       }
-    },
+    }
 
 ** note: if there is no liquidity gauge, simply put "gauge": null
 ```
 * Create a PR to the repository.
-
