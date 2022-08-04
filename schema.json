@@ -1,0 +1,40 @@
+{
+  "type": "array",
+  "items": {
+    "title": "Vault",
+    "description": "Vault information required for usage in Arrakis",
+    "type": "object",
+    "properties": {
+      "name": {
+        "description": "Name of the Vault",
+        "type": "string"
+      },
+      "address": {
+        "description": "Checksummed address of the Vault",
+        "type": "string"
+      },
+      "chainId": {
+        "description": "Network of the Vault",
+        "type": "number"
+      },
+      "gauge": {
+        "nullable": true,
+        "properties": {
+          "address": {
+            "description": "Checksummed address of the Gauge",
+            "type": "string"
+          },
+          "rewardToken": {
+            "description": "Checksummed address of rewards token",
+            "type": "string"
+          },
+          "rewardLength": {
+            "description": "A period in miliseconds when rewards applied",
+            "type": "number"
+          }
+        }
+      }
+    },
+    "required": ["name", "address", "chainId"]
+  }
+}
