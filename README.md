@@ -1,10 +1,10 @@
-# vaults-whitelist
-Arrakis whitelist of Vaults
+# community-data
+Arrakis static data for all community vaults
 
-## Instructions to add a new vault to the whitelist
+## Instructions to add a new vault to the vaultsList
 
 * Create a vault.
-* Add your vault information to `whitelist.json` in the following format.
+* Add your vault information to `vaultsList.json` in the following format.
 ```
     {
       "name": "Arrakis Vault V1 WMATIC/WETH",

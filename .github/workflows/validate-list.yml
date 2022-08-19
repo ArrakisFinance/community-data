@@ -1,4 +1,4 @@
-name: Validate Whitelist JSON
+name: Validate list JSON
 
 on: [push]
 
@@ -11,4 +11,4 @@ jobs:
         uses: docker://orrosenblatt/validate-json-action:latest
         env:
           INPUT_SCHEMA: ./schema.json
-          INPUT_JSONS: ./whitelist.json
+          INPUT_JSONS: ./vaultsList.json
