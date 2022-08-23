@@ -507,6 +507,12 @@
       "address": "0xc48bfd82eBC3c438076ae067BE5DF122002cd3Ef",
       "chainId": 1,
       "gauge": null
+    },
+    {
+      "name": "Arrakis Vault V1 wstETH/aETHc",
+      "address": "0x3876341aF90400A11EA7A75e1C38D4a04499928e",
+      "chainId": 1,
+      "gauge": null
     }
   ]
 }
