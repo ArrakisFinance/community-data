@@ -525,6 +525,12 @@
       "address": "0x3876341aF90400A11EA7A75e1C38D4a04499928e",
       "chainId": 1,
       "gauge": null
+    },
+    {
+      "name": "Arrakis Vault V1 miMATIC/MaticX",
+      "address": "0xC2Cd88d822a6D63eb20a5A448F6F26caf15828a9",
+      "chainId": 137,
+      "gauge": null
     }
   ]
 }
