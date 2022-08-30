@@ -1,0 +1,554 @@
+{
+  "name": "Arrakis Tokens List",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 2
+  },
+  "tokens": [
+    {
+      "address": "0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32",
+      "chainId": 1,
+      "name": "Lido DAO",
+      "symbol": "LDO",
+      "decimals": 18,
+      "logoURI": "https://assets.dex.guru/icons/0x5a98fcbea516cf06857215779fd812ca3bef1b32-eth.png"
+    },
+    {
+      "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "chainId": 1,
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDC.svg"
+    },
+    {
+      "address": "0x956F47F50A910163D8BF957Cf5846D573E7f87CA",
+      "chainId": 1,
+      "name": "Fei USD",
+      "symbol": "FEI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/CoinSpace/crypto-db/eb4a8048c2507f867071998187916e496dbe9fc3/logo/fei-protocol.svg"
+    },
+    {
+      "address": "0x68037790A0229e9Ce6EaA8A99ea92964106C4703",
+      "chainId": 1,
+      "name": "PAR Stablecoin",
+      "symbol": "PAR",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/mimo-capital/logos/main/par_round_200.png"
+    },
+    {
+      "address": "0x02e7Ac540409D32C90BfB51114003a9E1fF0249c",
+      "chainId": 1,
+      "name": "JPG NFT Index",
+      "symbol": "JPG",
+      "decimals": 18,
+      "logoURI": "https://assets.website-files.com/60d237b6ea65be721ff4bbfa/625d136810bce7ec0e43394d_JPG-token-logo-09.svg"
+    },
+    {
+      "address": "0x7C07F7aBe10CE8e33DC6C5aD68FE033085256A84",
+      "chainId": 1,
+      "name": "Interest Compounding ETH Index",
+      "symbol": "icETH",
+      "decimals": 18,
+      "logoURI": "https://static.coinstats.app/coins/interest-compounding-eth-indexwmh.png"
+    },
+    {
+      "address": "0x0FE20E0Fa9C78278702B05c333Cc000034bb69E2",
+      "chainId": 1,
+      "name": "ETH Max Yield Index",
+      "symbol": "ETHMAXY",
+      "decimals": 18,
+      "logoURI": "https://static.coinstats.app/coins/eth-max-yield-indexmz4.png"
+    },
+    {
+      "address": "0x1a7e4e63778B4f12a199C062f3eFdD288afCBce8",
+      "chainId": 1,
+      "name": "agEUR",
+      "symbol": "agEUR",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/agEUR.svg"
+    },
+    {
+      "address": "0x30B2dE4A95f397545C6509402F235b1BE0Fa9A14",
+      "chainId": 1,
+      "name": "Prelude of the Night",
+      "symbol": "FAITH",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/images/main/empty-token.png"
+    },
+    {
+      "address": "0x1cEB5cB57C4D4E2b2433641b95Dd330A33185A44",
+      "chainId": 1,
+      "name": "Keep3rV1",
+      "symbol": "KP3R",
+      "decimals": 18,
+      "logoURI": "https://static.coinstats.app/coins/keep3rv1CNt.png"
+    },
+    {
+      "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+      "chainId": 1,
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/CoinSpace/crypto-db/eb4a8048c2507f867071998187916e496dbe9fc3/logo/dai.svg"
+    },
+    {
+      "address": "0x2d94AA3e47d9D5024503Ca8491fcE9A2fB4DA198",
+      "chainId": 1,
+      "name": "Bankless Token",
+      "symbol": "BANK",
+      "decimals": 18,
+      "logoURI": "https://assets.dex.guru/icons/0x2d94aa3e47d9d5024503ca8491fce9a2fb4da198-eth.png"
+    },
+    {
+      "address": "0x90DE74265a416e1393A450752175AED98fe11517",
+      "chainId": 1,
+      "name": "Unlock Discount Token",
+      "symbol": "UDT",
+      "decimals": 18,
+      "logoURI": "https://assets.dex.guru/icons/0x90de74265a416e1393a450752175aed98fe11517-eth.png"
+    },
+    {
+      "address": "0x0954906da0Bf32d5479e25f46056d22f08464cab",
+      "chainId": 1,
+      "name": "Index",
+      "symbol": "INDEX",
+      "decimals": 18,
+      "logoURI": "https://static.coinstats.app/coins/index-cooperativeygt.png"
+    },
+    {
+      "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+      "chainId": 1,
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.dex.guru/icons/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599-eth.png"
+    },
+    {
+      "address": "0x64aa3364F17a4D01c6f1751Fd97C2BD3D7e7f1D5",
+      "chainId": 1,
+      "name": "Olympus",
+      "symbol": "OHM",
+      "decimals": 9,
+      "logoURI": "https://assets.dex.guru/icons/0x64aa3364f17a4d01c6f1751fd97c2bd3d7e7f1d5-eth.png"
+    },
+    {
+      "address": "0xAa6E8127831c9DE45ae56bB1b0d4D4Da6e5665BD",
+      "chainId": 1,
+      "name": "ETH 2x Flexible Leverage Index",
+      "symbol": "ETH2x-FLI",
+      "decimals": 18,
+      "logoURI": "https://assets.dex.guru/icons/0xaa6e8127831c9de45ae56bb1b0d4d4da6e5665bd-eth.png"
+    },
+    {
+      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "chainId": 1,
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.dex.guru/icons/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2-eth.png"
+    },
+    {
+      "address": "0x5c56c86AE42Ddee99c3b46cc1D78Ba4761080D86",
+      "chainId": 1,
+      "name": "A Yogis Joy",
+      "symbol": "MILAREPA",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/images/main/empty-token.png"
+    },
+    {
+      "address": "0x0F644658510c95CB46955e55D7BA9DDa9E9fBEc6",
+      "chainId": 1,
+      "name": "Ubiquity Algorithmic Dollar",
+      "symbol": "uAD",
+      "decimals": 18,
+      "logoURI": "https://assets.dex.guru/icons/0x0f644658510c95cb46955e55d7ba9dda9e9fbec6-eth.png"
+    },
+    {
+      "address": "0x15b7c0c907e4C6b9AdaAaabC300C08991D6CEA05",
+      "chainId": 1,
+      "name": "Gelato Network Token",
+      "symbol": "GEL",
+      "decimals": 18,
+      "logoURI": "https://assets.dex.guru/icons/0x15b7c0c907e4c6b9adaaaabc300c08991d6cea05-eth.png"
+    },
+    {
+      "address": "0x3b484b82567a09e2588A13D54D032153f0c0aEe0",
+      "chainId": 1,
+      "name": "SOS",
+      "symbol": "SOS",
+      "decimals": 18,
+      "logoURI": "https://assets.dex.guru/icons/0x3b484b82567a09e2588a13d54d032153f0c0aee0-eth.png"
+    },
+    {
+      "address": "0x47110d43175f7f2C2425E7d15792acC5817EB44f",
+      "chainId": 1,
+      "name": "Bankless DeFi Innovation Index",
+      "symbol": "GMI",
+      "decimals": 18,
+      "logoURI": "https://static.coinstats.app/coins/bankless-defi-innovation-indext6Z.png"
+    },
+    {
+      "address": "0x7E77dCb127F99ECe88230a64Db8d595F31F1b068",
+      "chainId": 1,
+      "name": "Escrowed Illuvium 2",
+      "symbol": "sILV2",
+      "decimals": 18,
+      "logoURI": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/silv2.png"
+    },
+    {
+      "address": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
+      "chainId": 1,
+      "name": "Wrapped liquid staked Ether 2.0",
+      "symbol": "wstETH",
+      "decimals": 18,
+      "logoURI": "https://assets.dex.guru/icons/0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0-eth.png"
+    },
+    {
+      "address": "0xb05097849BCA421A3f51B249BA6CCa4aF4b97cb9",
+      "chainId": 1,
+      "name": "Float Protocol: FLOAT",
+      "symbol": "FLOAT",
+      "decimals": 18,
+      "logoURI": "https://assets.dex.guru/icons/0xb05097849bca421a3f51b249ba6cca4af4b97cb9-eth.png"
+    },
+    {
+      "address": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
+      "chainId": 1,
+      "name": "Frax",
+      "symbol": "FRAX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/CoinSpace/crypto-db/eb4a8048c2507f867071998187916e496dbe9fc3/logo/frax.svg"
+    },
+    {
+      "address": "0xC18360217D8F7Ab5e7c516566761Ea12Ce7F9D72",
+      "chainId": 1,
+      "name": "Ethereum Name Service",
+      "symbol": "ENS",
+      "decimals": 18,
+      "logoURI": "https://assets.dex.guru/icons/0xc18360217d8f7ab5e7c516566761ea12ce7f9d72-eth.png"
+    },
+    {
+      "address": "0xD0Cd466b34A24fcB2f87676278AF2005Ca8A78c4",
+      "chainId": 1,
+      "name": "Popcorn",
+      "symbol": "POP",
+      "decimals": 18,
+      "logoURI": "https://assets.dex.guru/icons/0xd0cd466b34a24fcb2f87676278af2005ca8a78c4-eth.png"
+    },
+    {
+      "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+      "chainId": 1,
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.dex.guru/icons/0xdac17f958d2ee523a2206206994597c13d831ec7-eth.png"
+    },
+    {
+      "address": "0xE80C0cd204D654CEbe8dd64A4857cAb6Be8345a3",
+      "chainId": 1,
+      "name": "JPEG’d Governance Token",
+      "symbol": "JPEG",
+      "decimals": 18,
+      "logoURI": "https://assets.dex.guru/icons/0xe80c0cd204d654cebe8dd64a4857cab6be8345a3-eth.png"
+    },
+    {
+      "address": "0xf3b9569F82B18aEf890De263B84189bd33EBe452",
+      "chainId": 1,
+      "name": "A Hunters Dream",
+      "symbol": "CAW",
+      "decimals": 18,
+      "logoURI": "https://assets.dex.guru/icons/0xf3b9569f82b18aef890de263b84189bd33ebe452-eth.jpg"
+    },
+    {
+      "address": "0x3F56e0c36d275367b8C502090EDF38289b3dEa0d",
+      "chainId": 10,
+      "name": "QiDao",
+      "symbol": "QI",
+      "decimals": 18,
+      "logoURI": "https://assets.dex.guru/icons/0x580a84c73811e1839f75d86d75d88cca0c241ff4-polygon.png"
+    },
+    {
+      "address": "0x4200000000000000000000000000000000000006",
+      "chainId": 10,
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.dex.guru/icons/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2-eth.png"
+    },
+    {
+      "address": "0x8c6f28f2F1A3C87F0f938b96d27520d9751ec8d9",
+      "chainId": 10,
+      "name": "Synth sUSD",
+      "symbol": "sUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.dex.guru/icons/0x8c6f28f2f1a3c87f0f938b96d27520d9751ec8d9-optimism.png"
+    },
+    {
+      "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+      "chainId": 10,
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDC.svg"
+    },
+    {
+      "address": "0x0Be27c140f9Bdad3474bEaFf0A413EC7e19e9B93",
+      "chainId": 10,
+      "name": "Market Neutral Yield ETH Index",
+      "symbol": "MNYe",
+      "decimals": 18,
+      "logoURI": "https://static.coinstats.app/coins/eth-market-neutral-yieldnQW.png"
+    },
+    {
+      "address": "0x217D47011b23BB961eB6D93cA9945B7501a5BB11",
+      "chainId": 10,
+      "name": "Thales DAO Token",
+      "symbol": "THALES",
+      "decimals": 18,
+      "logoURI": "https://assets.dex.guru/icons/0x217d47011b23bb961eb6d93ca9945b7501a5bb11-optimism.png"
+    },
+    {
+      "address": "0x117cFd9060525452db4A34d51c0b3b7599087f05",
+      "chainId": 10,
+      "name": "Geyser",
+      "symbol": "GYSR",
+      "decimals": 18,
+      "logoURI": "https://assets.dex.guru/icons/0x117cfd9060525452db4a34d51c0b3b7599087f05-optimism.png"
+    },
+    {
+      "address": "0x61BAADcF22d2565B0F471b291C475db5555e0b76",
+      "chainId": 10,
+      "name": "Aelin Token",
+      "symbol": "AELIN",
+      "decimals": 18,
+      "logoURI": "https://assets.dex.guru/icons/0x61baadcf22d2565b0f471b291c475db5555e0b76-optimism.png"
+    },
+    {
+      "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
+      "chainId": 10,
+      "name": "Lyra Token",
+      "symbol": "LYRA",
+      "decimals": 18,
+      "logoURI": "https://assets.dex.guru/icons/0x50c5725949a6f0c72e6c4a641f24049a917db0cb-optimism.png"
+    },
+    {
+      "address": "0x8700dAec35aF8Ff88c16BdF0418774CB3D7599B4",
+      "chainId": 10,
+      "name": "Synthetix Network Token",
+      "symbol": "SNX",
+      "decimals": 18,
+      "logoURI": "https://assets.dex.guru/icons/0x8700daec35af8ff88c16bdf0418774cb3d7599b4-optimism.png"
+    },
+    {
+      "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+      "chainId": 10,
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/CoinSpace/crypto-db/eb4a8048c2507f867071998187916e496dbe9fc3/logo/dai.svg"
+    },
+    {
+      "address": "0x4200000000000000000000000000000000000042",
+      "chainId": 10,
+      "name": "Optimism",
+      "symbol": "OP",
+      "decimals": 18,
+      "logoURI": "https://assets.dex.guru/icons/0x4200000000000000000000000000000000000042-optimism.png"
+    },
+    {
+      "address": "0xC3C7d422809852031b44ab29EEC9F1EfF2A58756",
+      "chainId": 137,
+      "name": "Lido DAO (POS)",
+      "symbol": "LDO",
+      "decimals": 18,
+      "logoURI": "https://assets.dex.guru/icons/0xc3c7d422809852031b44ab29eec9f1eff2a58756-polygon.png"
+    },
+    {
+      "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+      "chainId": 137,
+      "name": "Wrapped Matic",
+      "symbol": "WMATIC",
+      "decimals": 18,
+      "logoURI": "https://assets.dex.guru/icons/0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270-polygon.png"
+    },
+    {
+      "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+      "chainId": 137,
+      "name": "USD Coin (PoS)",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDC.svg"
+    },
+    {
+      "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+      "chainId": 137,
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.dex.guru/icons/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2-eth.png"
+    },
+    {
+      "address": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+      "chainId": 137,
+      "name": "(PoS) Wrapped BTC",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.dex.guru/icons/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599-eth.png"
+    },
+    {
+      "address": "0x11d9efDf4Ab4A3bfabf5C7089F56AA4F059AA14C",
+      "chainId": 137,
+      "name": "Breadchain Stablecoin",
+      "symbol": "BREAD",
+      "decimals": 18,
+      "logoURI": "https://polygonscan.com/images/main/empty-token.png"
+    },
+    {
+      "address": "0x45c32fA6DF82ead1e2EF74d17b76547EDdFaFF89",
+      "chainId": 137,
+      "name": "Frax",
+      "symbol": "FRAX",
+      "decimals": 18,
+      "logoURI": "https://assets.dex.guru/icons/0x45c32fa6df82ead1e2ef74d17b76547eddfaff89-polygon.png"
+    },
+    {
+      "address": "0x130cE4E4F76c2265f94a961D70618562de0bb8d2",
+      "chainId": 137,
+      "name": "Inverse BTC Flexible Leverage Index",
+      "symbol": "iBTC-FLI-P",
+      "decimals": 18,
+      "logoURI": "https://assets.dex.guru/icons/0x130ce4e4f76c2265f94a961d70618562de0bb8d2-polygon.png"
+    },
+    {
+      "address": "0x340f412860dA7b7823df372a2b59Ff78b7ae6abc",
+      "chainId": 137,
+      "name": "Inverse MATIC Flexible Leverage Index",
+      "symbol": "iMATIC-FLI-P",
+      "decimals": 18,
+      "logoURI": "https://assets.dex.guru/icons/0x340f412860da7b7823df372a2b59ff78b7ae6abc-polygon.png"
+    },
+    {
+      "address": "0xE0B52e49357Fd4DAf2c15e02058DCE6BC0057db4",
+      "chainId": 137,
+      "name": "agEUR",
+      "symbol": "agEUR",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/agEUR.svg"
+    },
+    {
+      "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+      "chainId": 137,
+      "name": "(PoS) Dai Stablecoin",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/CoinSpace/crypto-db/eb4a8048c2507f867071998187916e496dbe9fc3/logo/dai.svg"
+    },
+    {
+      "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+      "chainId": 137,
+      "name": "(PoS) Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.dex.guru/icons/0xdac17f958d2ee523a2206206994597c13d831ec7-eth.png"
+    },
+    {
+      "address": "0x501acE9c35E60f03A2af4d484f49F9B1EFde9f40",
+      "chainId": 137,
+      "name": "solace",
+      "symbol": "SOLACE",
+      "decimals": 18,
+      "logoURI": "https://assets.dex.guru/icons/0x501ace9c35e60f03a2af4d484f49f9b1efde9f40-polygon.png"
+    },
+    {
+      "address": "0xD6DF932A45C0f255f85145f286eA0b292B21C90B",
+      "chainId": 137,
+      "name": "Aave (PoS)",
+      "symbol": "AAVE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/CoinSpace/crypto-db/eb4a8048c2507f867071998187916e496dbe9fc3/logo/aave.svg"
+    },
+    {
+      "address": "0xa3Fa99A148fA48D14Ed51d610c367C61876997F1",
+      "chainId": 137,
+      "name": "miMATIC",
+      "symbol": "MAI",
+      "decimals": 18,
+      "logoURI": "https://assets.dex.guru/icons/0xa3fa99a148fa48d14ed51d610c367c61876997f1-polygon.png"
+    },
+    {
+      "address": "0xC5B57e9a1E7914FDA753A88f24E5703e617Ee50c",
+      "chainId": 137,
+      "name": "Popcorn (PoS)",
+      "symbol": "POP",
+      "decimals": 18,
+      "logoURI": "https://assets.dex.guru/icons/0xd0cd466b34a24fcb2f87676278af2005ca8a78c4-eth.png"
+    },
+    {
+      "address": "0x7FBc10850caE055B27039aF31bD258430e714c62",
+      "chainId": 137,
+      "name": "Unibright (PoS)",
+      "symbol": "UBT",
+      "decimals": 8,
+      "logoURI": "https://assets.dex.guru/icons/0x7fbc10850cae055b27039af31bd258430e714c62-polygon.png"
+    },
+    {
+      "address": "0xE2Aa7db6dA1dAE97C5f5C6914d285fBfCC32A128",
+      "chainId": 137,
+      "name": "PAR Stablecoin",
+      "symbol": "PAR",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/mimo-capital/logos/main/par_round_200.png"
+    },
+    {
+      "address": "0xd6cA869a4EC9eD2C7E618062Cdc45306d8dBBc14",
+      "chainId": 137,
+      "name": "BTC 2x Flexible Leverage Index",
+      "symbol": "BTC2x-FLI-P",
+      "decimals": 18,
+      "logoURI": "https://assets.dex.guru/icons/0xd6ca869a4ec9ed2c7e618062cdc45306d8dbbc14-polygon.png"
+    },
+    {
+      "address": "0xc48F61a288A08F1B80c2edd74652e1276B6A168c",
+      "chainId": 137,
+      "name": "Geyser (PoS)",
+      "symbol": "GYSR",
+      "decimals": 18,
+      "logoURI": "https://assets.dex.guru/icons/0x117cfd9060525452db4a34d51c0b3b7599087f05-optimism.png"
+    },
+    {
+      "address": "0x3A58a54C066FdC0f2D55FC9C89F0415C92eBf3C4",
+      "chainId": 137,
+      "name": "Staked MATIC (PoS)",
+      "symbol": "stMATIC",
+      "decimals": 18,
+      "logoURI": "https://assets.dex.guru/icons/0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270-polygon.png"
+    },
+    {
+      "address": "0x4Ddc2D193948926D02f9B1fE9e1daa0718270ED5",
+      "chainId": 1,
+      "name": "Compound Ether",
+      "symbol": "cETH",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/compound-interface.svg"
+    },
+    {
+      "address": "0x4Fabb145d64652a948d72533023f6E7A623C7C53",
+      "chainId": 1,
+      "name": "Binance USD",
+      "symbol": "BUSD",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/binance-exchange/binance-official-docs/master/images/logo/Binance_US_Logo.png"
+    },
+    {
+      "address": "0xfa68FB4628DFF1028CFEc22b4162FCcd0d45efb6",
+      "chainId": 137,
+      "name": "Liquid Staking Matic (PoS)",
+      "symbol": "MaticX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/stader-labs/assets/main/terra/SD_Token.png"
+    }
+  ]
+}
