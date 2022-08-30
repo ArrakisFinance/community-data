@@ -50,7 +50,14 @@
             "type": "string"
           }
         },
-        "required": ["name", "address", "chainId"]
+        "required": [
+          "address",
+          "chainId",
+          "name",
+          "symbol",
+          "decimals",
+          "logoURI"
+        ]
       }
     }
   }
