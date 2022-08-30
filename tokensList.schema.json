@@ -1,0 +1,57 @@
+{
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string"
+    },
+    "version": {
+      "type": "object",
+      "properties": {
+        "major": {
+          "type": "number"
+        },
+        "minor": {
+          "type": "number"
+        },
+        "patch": {
+          "type": "number"
+        }
+      }
+    },
+    "tokens": {
+      "type": "array",
+      "items": {
+        "title": "Token",
+        "description": "Tokens for vaults and rewards",
+        "type": "object",
+        "properties": {
+          "address": {
+            "description": "Token checksum address",
+            "type": "string"
+          },
+          "chainId": {
+            "description": "Token network",
+            "type": "number"
+          },
+          "name": {
+            "description": "Token name",
+            "type": "string"
+          },
+          "symbol": {
+            "description": "Token symbol",
+            "type": "string"
+          },
+          "decimals": {
+            "description": "Token decimals",
+            "type": "number"
+          },
+          "logoURI": {
+            "description": "Token logo",
+            "type": "string"
+          }
+        },
+        "required": ["name", "address", "chainId"]
+      }
+    }
+  }
+}

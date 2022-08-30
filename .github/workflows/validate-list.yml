@@ -1,4 +1,4 @@
-name: Validate list JSON
+name: Validate JSON
 
 on: [push]
 
@@ -7,8 +7,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
-      - name: Validate JSON
+      - name: Validate Vaulst List
         uses: docker://orrosenblatt/validate-json-action:latest
         env:
-          INPUT_SCHEMA: ./schema.json
+          INPUT_SCHEMA: ./vaultsList.schema.json
           INPUT_JSONS: ./vaultsList.json
+      - name: Validate Tokens List
+        uses: docker://orrosenblatt/validate-json-action:latest
+        env:
+          INPUT_SCHEMA: ./tokensList.schema.json
+          INPUT_JSONS: ./tokensList.json

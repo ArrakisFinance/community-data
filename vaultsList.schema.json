@@ -4,43 +4,51 @@
     "name": {
       "type": "string"
     },
-    "description": {
-      "type": "string"
-    },
     "author": {
       "type": "string"
     },
     "version": {
-      "type": "string"
+      "type": "object",
+      "properties": {
+        "major": {
+          "type": "number"
+        },
+        "minor": {
+          "type": "number"
+        },
+        "patch": {
+          "type": "number"
+        }
+      }
     },
     "vaults": {
       "type": "array",
       "items": {
         "title": "Vault",
-        "description": "Vault information required for usage in Arrakis",
+        "description": "Vaults information required for usage in Arrakis",
         "type": "object",
         "properties": {
           "name": {
-            "description": "Name of the Vault",
+            "description": "Vault name",
             "type": "string"
           },
           "address": {
-            "description": "Checksummed address of the Vault",
+            "description": "Vault checksum address",
             "type": "string"
           },
           "chainId": {
-            "description": "Network of the Vault",
+            "description": "Vault network",
             "type": "number"
           },
           "gauge": {
             "nullable": true,
             "properties": {
               "address": {
-                "description": "Checksummed address of the Gauge",
+                "description": "Vault gauge checksum address",
                 "type": "string"
               },
               "rewardToken": {
-                "description": "Checksummed address of rewards token",
+                "description": "Vault rewards token checksum address",
                 "type": "string"
               },
               "rewardLength": {
