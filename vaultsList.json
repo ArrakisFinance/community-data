@@ -564,6 +564,12 @@
         "rewardToken": "0x8207c1FfC5B6804F6024322CcF34F29c3541Ae26",
         "rewardLength": 604800
       }
+    },
+    {
+      "name": "Arrakis Vault V1 USDC/WETH",
+      "address": "0xA0F01a3FCc2Cdd9484c5466FBF53FEE42860fbA4",
+      "chainId": 137,
+      "gauge": null
     }
   ]
 }
