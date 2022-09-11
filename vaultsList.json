@@ -571,5 +571,11 @@
       "chainId": 1,
       "gauge": null
     },
+    {
+      "name": "Arrakis Vault V1 BUSD/USDC",
+      "address": "0x4cbcecdc744ad72fe8695fedf705c860ac210fa4",
+      "chainId": 1,
+      "gauge": null      
+    }
   ]
 }
