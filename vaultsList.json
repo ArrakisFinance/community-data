@@ -576,6 +576,12 @@
       "address": "0x4cbcecdc744ad72fe8695fedf705c860ac210fa4",
       "chainId": 1,
       "gauge": null      
+    },
+    {
+      "name": "Arrakis Vault V1 STG/USDC",
+      "address": "0xec376c3856a4232bB6Ed9752d29402DDCD09A9A3",
+      "chainId": 10,
+      "gauge": null      
     }
   ]
 }
