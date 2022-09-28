@@ -582,6 +582,12 @@
       "address": "0xec376c3856a4232bB6Ed9752d29402DDCD09A9A3",
       "chainId": 10,
       "gauge": null      
+    },
+    {
+      "name": "Arrakis Vault V1 GYEN/USDC",
+      "address": "0xf62FAb0b5A8255Eb1976cA9771Db23D55978d311",
+      "chainId": 1,
+      "gauge": null      
     }
   ]
 }
