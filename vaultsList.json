@@ -584,8 +584,14 @@
       "gauge": null      
     },
     {
-      "name": "Arrakis Vault V1 GYEN/USDC",
+      "name": "Arrakis Vault V1 USDC/GYEN",
       "address": "0xf62FAb0b5A8255Eb1976cA9771Db23D55978d311",
+      "chainId": 1,
+      "gauge": null      
+    },
+	{
+      "name": "Arrakis Vault V1 alETH/alUSD",
+      "address": "0xE0A34a39c694fFc1beCEcf5bd948e534931C1105",
       "chainId": 1,
       "gauge": null      
     }

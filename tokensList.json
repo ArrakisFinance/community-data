@@ -605,6 +605,22 @@
       "symbol": "GYEN",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/14191/small/icon_gyen_200_200.png?1614843343"
+    },
+	{
+      "address": "0xBC6DA0FE9aD5f3b0d58160288917AA56653660E9",
+      "chainId": 1,
+      "name": "Alchemix USD",
+      "symbol": "alUSD",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/alUSDCG_32.png"
+    },
+	{
+      "address": "0x0100546F2cD4C9D97f798fFC9755E47865FF7Ee6",
+      "chainId": 1,
+      "name": "Alchemix ETH",
+      "symbol": "alETH",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/alchemixeth_32.png"
     }
   ]
 }
