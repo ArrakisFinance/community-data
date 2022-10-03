@@ -612,7 +612,7 @@
       "name": "Alchemix USD",
       "symbol": "alUSD",
       "decimals": 18,
-      "logoURI": "https://etherscan.io/token/images/alUSDCG_32.png"
+      "logoURI": "https://assets.coingecko.com/coins/images/14114/large/Alchemix_USD.png?1614410406"
     },
 	  {
       "address": "0x0100546F2cD4C9D97f798fFC9755E47865FF7Ee6",
@@ -620,7 +620,7 @@
       "name": "Alchemix ETH",
       "symbol": "alETH",
       "decimals": 18,
-      "logoURI": "https://etherscan.io/token/images/alchemixeth_32.png"
+      "logoURI": "https://legacy.alchemix.fi/static/media/thiccaleth.b4d9d40d.png"
     },
     {
       "address": "0xdBdb4d16EdA451D0503b854CF79D55697F90c8DF",
@@ -628,7 +628,7 @@
       "name": "Alchemix",
       "symbol": "ALCX",
       "decimals": 18,
-      "logoURI": "https://etherscan.io/token/images/alchemixeth_32.png"     
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/8613.png"     
     }
   ]
 }
