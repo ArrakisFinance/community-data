@@ -589,7 +589,7 @@
       "chainId": 1,
       "gauge": null      
     },
-	{
+	  {
       "name": "Arrakis Vault V1 alETH/alUSD",
       "address": "0xE0A34a39c694fFc1beCEcf5bd948e534931C1105",
       "chainId": 1,
@@ -598,6 +598,12 @@
         "rewardToken": "0xdBdb4d16EdA451D0503b854CF79D55697F90c8DF",
         "rewardLength": 604800
       }     
+    },
+    {
+      "name": "Arrakis Vault V1 USDC/miMATIC",
+      "address": "0xa199569af06cb68960869fe376c9b41f68d8e2d1",
+      "chainId": 137,
+      "gauge": null  
     }
   ]
 }
