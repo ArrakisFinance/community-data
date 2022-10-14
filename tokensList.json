@@ -68,7 +68,7 @@
       "name": "agEUR",
       "symbol": "agEUR",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/agEUR.svg"
+      "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/agEUR/agEUR-new1.svg"
     },
     {
       "address": "0x30B2dE4A95f397545C6509402F235b1BE0Fa9A14",
@@ -436,7 +436,7 @@
       "name": "agEUR",
       "symbol": "agEUR",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/agEUR.svg"
+      "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-assets/main/0_tokens/agEUR/cross-chain/agEUR-polygon.svg"
     },
     {
       "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
