@@ -601,15 +601,21 @@
     },
     {
       "name": "Arrakis Vault V1 USDC/miMATIC",
-      "address": "0xa199569af06cb68960869fe376c9b41f68d8e2d1",
+      "address": "0xA199569AF06cB68960869Fe376C9b41f68d8E2D1",
       "chainId": 137,
       "gauge": null  
-    }
+    },
     {
       "name": "Arrakis Vault V1 WETH/HAN",
       "address": "0x3fa8CEE6795220Ac25DD35D4d39ec306a3e4fb3f",
       "chainId": 10,
       "gauge": null
+    },
+    {
+      "name": "Arrakis Vault V1 DAI/miMATIC",
+      "address": "0xB197f73B582f76cfc96d269a3A99A3604316BA47",
+      "chainId": 137,
+      "gauge": null  
     }
   ]
 }
