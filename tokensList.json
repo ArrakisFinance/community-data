@@ -630,5 +630,13 @@
       "decimals": 18,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/8613.png"     
     }
+    {
+      "address": "0x50Bce64397C75488465253c0A034b8097FeA6578",
+      "chainId": 10,
+      "name": "HanChain",
+      "symbol": "HAN",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/hanchain-paykhan/hanchain/3058eecc5d26f980db884f1318da6c4de18a7aea/logo/logo.svg"
+    }
   ]
 }

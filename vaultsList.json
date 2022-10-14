@@ -605,5 +605,11 @@
       "chainId": 137,
       "gauge": null  
     }
+    {
+      "name": "Arrakis Vault V1 WETH/HAN",
+      "address": "0x3fa8CEE6795220Ac25DD35D4d39ec306a3e4fb3f",
+      "chainId": 10,
+      "gauge": null
+    }
   ]
 }
