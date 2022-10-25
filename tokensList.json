@@ -343,6 +343,14 @@
       "logoURI": "https://assets.dex.guru/icons/0x8700daec35af8ff88c16bdf0418774cb3d7599b4-optimism.png"
     },
     {
+      "address": "0x5d47baba0d66083c52009271faf3f50dcc01023c",
+      "chainId": 10,
+      "name": "UniDex Exchange Token",
+      "symbol": "UNIDX",
+      "decimals": 18,
+      "logoURI": "https://assets.dex.guru/icons/0x2130d2a1e51112d349ccf78d2a1ee65843ba36e0-fantom.png"
+    },
+    {
       "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
       "chainId": 10,
       "name": "Dai Stablecoin",

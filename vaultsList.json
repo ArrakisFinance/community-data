@@ -394,6 +394,12 @@
       "gauge": null
     },
     {
+      "name": "Arrakis Vault V1 UNIDX/WETH",
+      "address": "0x691F026D37BEd076FaC5F1B3634523E0673Bad07",
+      "chainId": 10,
+      "gauge": null
+    },
+    {
       "name": "Arrakis Vault V1 QI/WETH",
       "address": "0x65Fbf30f29C7626385f78Dbc41702d97b9cD486a",
       "chainId": 10,
