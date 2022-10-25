@@ -632,6 +632,26 @@
         "rewardToken": "0x4200000000000000000000000000000000000042",
         "rewardLength": 604800
       }  
+    },
+    {
+      "name": "Arrakis Vault V1 USDC/DAI",
+      "address": "0x632336474f5Bf11aEbECd63B84A0a2800B99a490",
+      "chainId": 10,
+      "gauge": {
+        "address": "0x87c7c885365700D157cd0f39a7803320fe86f0f5",
+        "rewardToken": "0x4200000000000000000000000000000000000042",
+        "rewardLength": 604800
+      }  
+    },
+    {
+      "name": "Arrakis Vault V1 WETH/DAI",
+      "address": "0x96FecBDc4ff071779cd82DA7bA23DA76B0E37aCB",
+      "chainId": 10,
+      "gauge": {
+        "address": "0x367f2dEA1632eA767A5e968FEFa4c0dD78DEA853",
+        "rewardToken": "0x4200000000000000000000000000000000000042",
+        "rewardLength": 604800
+      }  
     }
   ]
 }
