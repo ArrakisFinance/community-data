@@ -682,6 +682,12 @@
       "address": "0x88E2a14018E18F6DbDfbbBfD16e304ec6C2a3ea1",
       "chainId": 137,
       "gauge": null
+    },
+    {
+      "name": "Arrakis Vault V1 USDC/BOB",
+      "address": "0x76F7EEC7DC64D2051d87392dBB45698FF103624F",
+      "chainId": 137,
+      "gauge": null
     }
   ]
 }
