@@ -8,6 +8,12 @@
   },
   "vaults": [
     {
+      "name": "Arrakis Vault V1 POP/USDC",
+      "address": "0x2AE1231E4CF821Af69982c4D04725CD502D8B53E",
+      "chainId": 10,
+      "gauge": null
+    },
+    {
       "name": "Arrakis Vault V1 WMATIC/WETH",
       "address": "0xdc0eca1d69ab51c2b2171c870a1506499081da5b",
       "chainId": 137,

@@ -236,7 +236,15 @@
       "name": "Popcorn",
       "symbol": "POP",
       "decimals": 18,
-      "logoURI": "https://assets.dex.guru/icons/0xd0cd466b34a24fcb2f87676278af2005ca8a78c4-eth.png"
+      "logoURI": "https://www.popcorndao.finance/images/icons/POP.svg"
+    },
+    {
+      "address": "0x6F0fecBC276de8fC69257065fE47C5a03d986394",
+      "chainId": 10,
+      "name": "Popcorn",
+      "symbol": "POP",
+      "decimals": 18,
+      "logoURI": "https://www.popcorndao.finance/images/icons/POP.svg"
     },
     {
       "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
@@ -492,7 +500,7 @@
       "name": "Popcorn (PoS)",
       "symbol": "POP",
       "decimals": 18,
-      "logoURI": "https://assets.dex.guru/icons/0xd0cd466b34a24fcb2f87676278af2005ca8a78c4-eth.png"
+      "logoURI": "https://www.popcorndao.finance/images/icons/POP.svg"
     },
     {
       "address": "0x7FBc10850caE055B27039aF31bD258430e714c62",
