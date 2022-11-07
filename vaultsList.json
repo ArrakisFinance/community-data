@@ -8,6 +8,12 @@
   },
   "vaults": [
     {
+      "name": "Arrakis Vault V1 POP/USDC",
+      "address": "0x2AE1231E4CF821Af69982c4D04725CD502D8B53E",
+      "chainId": 10,
+      "gauge": null
+    },
+    {
       "name": "Arrakis Vault V1 WMATIC/WETH",
       "address": "0xdc0eca1d69ab51c2b2171c870a1506499081da5b",
       "chainId": 137,
@@ -652,6 +658,30 @@
         "rewardToken": "0x4200000000000000000000000000000000000042",
         "rewardLength": 604800
       }  
+    },
+    {
+      "name": "Arrakis Vault V1 WMATIC/CRV",
+      "address": "0x7B9e0a36A2a353a049B5d3f1DD86a2591B23f6E3",
+      "chainId": 137,
+      "gauge": null
+    },
+    {
+      "name": "Arrakis Vault V1 LINK/WETH",
+      "address": "0xe09Ee8aA0125D6995EC89E666c0e133A99f789E1",
+      "chainId": 137,
+      "gauge": null
+    },
+    {
+      "name": "Arrakis Vault V1 WETH/UNI",
+      "address": "0x9a7CeA08640aA34002B324c83F00DF189c9142F9",
+      "chainId": 137,
+      "gauge": null
+    },
+    {
+      "name": "Arrakis Vault V1 WMATIC/MaticX",
+      "address": "0x88E2a14018E18F6DbDfbbBfD16e304ec6C2a3ea1",
+      "chainId": 137,
+      "gauge": null
     },
     {
       "name": "Arrakis Vault V1 USDC/BOB",
