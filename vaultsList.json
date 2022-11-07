@@ -652,6 +652,12 @@
         "rewardToken": "0x4200000000000000000000000000000000000042",
         "rewardLength": 604800
       }  
+    },
+    {
+      "name": "Arrakis Vault V1 USDC/BOB",
+      "address": "0x76F7EEC7DC64D2051d87392dBB45698FF103624F",
+      "chainId": 137,
+      "gauge": null
     }
   ]
 }
