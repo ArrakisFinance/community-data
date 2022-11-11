@@ -696,6 +696,7 @@
         "address": "0xC78F036f557925270E3506e140cFE5F2a188C3A3",
         "rewardToken": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
         "rewardLength": 604800
+      }  
     },
     {
       "name": "Arrakis Vault V1 WETH/DAI",
@@ -711,6 +712,7 @@
         "address": "0x0fca3755B1DE447D15F8414f83FA650da255020F",
         "rewardToken": "0x25788a1a171ec66Da6502f9975a15B609fF54CF6",
         "rewardLength": 3024000
+      }  
     }
   ]
 }
