@@ -704,6 +704,16 @@
       "address": "0xbc73933C8CA2b32ef3fB6B6aC8a53070EB05F9fd",
       "chainId": 42161,
       "gauge": null
+    },
+    {
+      "name": "Arrakis Vault V1 WETH/POOL",
+      "address": "0x8Ff0FF88797BE3a05e66456eC3CE8bFB96D6962C",
+      "chainId": 137,
+      "gauge": {
+        "address": "0x0fca3755B1DE447D15F8414f83FA650da255020F",
+        "rewardToken": "0x25788a1a171ec66Da6502f9975a15B609fF54CF6",
+        "rewardLength": 604800
+      }  
     }
   ]
 }
