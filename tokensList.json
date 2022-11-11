@@ -661,6 +661,14 @@
       "symbol": "BOB",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/27266/large/Bob-logo.png"
+    },
+    {
+      "address": "0x25788a1a171ec66Da6502f9975a15B609fF54CF6",
+      "chainId": 137,
+      "name": "PoolTogether DAO (POS)",
+      "symbol": "POOL",
+      "decimals": 18,
+      "logoURI": "https://assets.dex.guru/icons/0x25788a1a171ec66da6502f9975a15b609ff54cf6-polygon.png"
     }
   ]
 }
