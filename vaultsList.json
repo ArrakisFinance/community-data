@@ -693,7 +693,11 @@
       "name": "Arrakis Vault V1 WETH/DAI",
       "address": "0xbc73933C8CA2b32ef3fB6B6aC8a53070EB05F9fd",
       "chainId": 42161,
-      "gauge": null
+      "gauge": {
+        "address": "0xC78F036f557925270E3506e140cFE5F2a188C3A3",
+        "rewardToken": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+        "rewardLength": 604800
+      }
     }
   ]
 }
