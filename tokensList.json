@@ -236,7 +236,7 @@
       "name": "Popcorn",
       "symbol": "POP",
       "decimals": 18,
-      "logoURI": "https://www.popcorndao.finance/images/icons/POP.svg"
+      "logoURI": "https://raw.githubusercontent.com/popcorndao/assets/main/POP.svg"
     },
     {
       "address": "0x6F0fecBC276de8fC69257065fE47C5a03d986394",
@@ -244,7 +244,7 @@
       "name": "Popcorn",
       "symbol": "POP",
       "decimals": 18,
-      "logoURI": "https://www.popcorndao.finance/images/icons/POP.svg"
+      "logoURI": "https://raw.githubusercontent.com/popcorndao/assets/main/POP.svg"
     },
     {
       "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
@@ -500,7 +500,7 @@
       "name": "Popcorn (PoS)",
       "symbol": "POP",
       "decimals": 18,
-      "logoURI": "https://www.popcorndao.finance/images/icons/POP.svg"
+      "logoURI": "https://raw.githubusercontent.com/popcorndao/assets/main/POP.svg"
     },
     {
       "address": "0x7FBc10850caE055B27039aF31bD258430e714c62",
@@ -661,6 +661,22 @@
       "symbol": "BOB",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/27266/large/Bob-logo.png"
+    },
+    {
+      "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+      "chainId": 42161,
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets-stage.dex.guru/icons/0x82af49447d8a07e3bd95bd0d56f35241523fbab1-arbitrum.png"
+    },
+    {
+      "address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
+      "chainId": 42161,
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://assets-stage.dex.guru/icons/0xda10009cbd5d07dd0cecc66161fc93d7c9000da1-arbitrum.png"
     },
     {
       "address": "0x25788a1a171ec66Da6502f9975a15B609fF54CF6",
