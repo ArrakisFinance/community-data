@@ -630,7 +630,7 @@
       "gauge": null  
     },
     {
-      "name": "Arrakis Vault V1 DAI/MAI 0.01%",
+      "name": "Arrakis Vault V1 DAI/MAI",
       "address": "0x873f4ae80867b9f97304b9bb7ef92c4d563fa48c",
       "chainId": 137,
       "gauge": null  
