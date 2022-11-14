@@ -719,6 +719,24 @@
         "address": "0x0fca3755B1DE447D15F8414f83FA650da255020F",
         "rewardToken": "0x25788a1a171ec66Da6502f9975a15B609fF54CF6",
         "rewardLength": 604800
+    },
+    {
+      "name": "Arrakis Vault V1: IC v3p DAI/USDC",
+      "address": "0xe790f2359cB615B6F30EdD377B7f3656a92192f2",
+      "chainId": 1,
+      "gauge": null
+    },
+    {
+      "name": "Arrakis Vault V1: IC v3p USDC/USDT",
+      "address": "0x394b0E6f4d8d51F51A251f60322a27599f8031a5",
+      "chainId": 1,
+      "gauge": null
+    },
+    {
+      "name": "Arrakis Vault V1: IC v3p DAI/USDT",
+      "address": "0xe790f2359cB615B6F30EdD377B7f3656a92192f2",
+      "chainId": 1,
+      "gauge": null
       }  
     }
   ]
