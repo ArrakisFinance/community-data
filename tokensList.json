@@ -685,6 +685,14 @@
       "symbol": "POOL",
       "decimals": 18,
       "logoURI": "https://assets.dex.guru/icons/0x25788a1a171ec66da6502f9975a15b609ff54cf6-polygon.png"
+    },
+    {
+        "address": "0xd52f94df742a6f4b4c8b033369fe13a41782bf44",
+        "chainId": 10,
+        "name": "Layer2DAO",
+        "symbol": "L2DAO",
+        "decimals": 18,
+        "logoURI": "https://assets-stage.dex.guru/icons/0xd52f94df742a6f4b4c8b033369fe13a41782bf44-optimism.png"
     }
   ]
 }
