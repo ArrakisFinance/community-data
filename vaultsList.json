@@ -727,5 +727,11 @@
       "chainId": 10,
       "gauge": null
     }
+    {
+      "name": "Arrakis Vault V1 KWENTA/ETH POOL",
+      "address":  "0x56dEa47c40877c2aaC2a689aC56aa56cAE4938d2",
+      "chainId": 10,
+      "gauge": null
+    }
   ]
 }
