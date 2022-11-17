@@ -693,6 +693,14 @@
         "symbol": "L2DAO",
         "decimals": 18,
         "logoURI": "https://assets-stage.dex.guru/icons/0xd52f94df742a6f4b4c8b033369fe13a41782bf44-optimism.png"
+    },
+    {
+        "address": "0x920Cf626a271321C151D027030D5d08aF699456b",
+        "chainId": 10,
+        "name": "Kwenta",
+        "symbol": "KWENTA",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/27409/small/buod0bVu_400x400.jpeg?1663851753"
     }
   ]
 }
