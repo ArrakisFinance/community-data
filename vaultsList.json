@@ -603,10 +603,10 @@
     },
 	  {
       "name": "Arrakis Vault V1 alETH/alUSD",
-      "address": "0xE0A34a39c694fFc1beCEcf5bd948e534931C1105",
+      "address": "0xB06a77021a0041527A998ce4d6C95b256a906Bca",
       "chainId": 1,
       "gauge": {
-        "address": "0x08a44Fd7dDC0EA006e875f978AA1B10C329a8493",
+        "address": "0x83c1aEf2D4cE3b7c09930Ad1Cdda626839f93608",
         "rewardToken": "0xdBdb4d16EdA451D0503b854CF79D55697F90c8DF",
         "rewardLength": 604800
       }     
