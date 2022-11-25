@@ -750,6 +750,18 @@
       "address": "0xe790f2359cB615B6F30EdD377B7f3656a92192f2",
       "chainId": 1,
       "gauge": null
+    },
+    {
+      "name": "Arrakis Vault V1: IC LPI LUSD/DAI",
+      "address": "0x9c60cc8a61abca87aa50ee894d6efc6ed2f15ddd",
+      "chainId": 1,
+      "gauge": null
+    },
+    {
+      "name": "Arrakis Vault V1: IC LPI BUSD/USDC",
+      "address": "0xd103caf4ff1e9ad5df92ce49f2e9a8890791dcdd",
+      "chainId": 1,
+      "gauge": null
     } 
   ]
 }
