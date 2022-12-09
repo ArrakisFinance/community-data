@@ -567,6 +567,14 @@
       "logoURI": "https://raw.githubusercontent.com/stader-labs/assets/main/terra/SD_Token.png"
     },
     {
+      "address": "0x338Eb4d394a4327E5dB80d08628fa56EA2FD4B81",
+      "chainId": 137,
+      "name": "Bonq Euro",
+      "symbol": "BEUR",
+      "decimals": 18,
+      "logoURI": "https://bonq.infura-ipfs.io/ipfs/QmcgN5xDrqrRfvUKTxDKY1tw8iuA81EQBUFu4uJBndqyMK"
+    },
+    {
       "address": "0x8207c1FfC5B6804F6024322CcF34F29c3541Ae26",
       "chainId": 1,
       "name": "OriginToken",
