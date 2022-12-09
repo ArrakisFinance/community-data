@@ -14,6 +14,36 @@
       "gauge": null
     },
     {
+      name: "Arrakis Vault V1 BEUR/USDC",
+      address: "0x388E289A1705fa7b8808AB13f0e0f865E2Ff94eE",
+      chainId: 137,
+      gauge: null,
+    },
+    {
+      name: "Arrakis Vault V1 BEUR/DAI",
+      address: "0xA1Dd21527c76BB1A3b667149e741A8B0f445FaE2",
+      chainId: 137,
+      gauge: null,
+    },
+    {
+      name: "Arrakis Vault V1 BEUR/WETH",
+      address: "0x8B8533471920231Acca16104a0c81fA50D8C9a53",
+      chainId: 137,
+      gauge: null,
+    },
+    {
+      name: "Arrakis Vault V1 BEUR/WMATIC",
+      address: "0xF006abD9f9874712b76a4c5E43bc7e5030817982",
+      chainId: 137,
+      gauge: null,
+    },
+    {
+      name: "Arrakis Vault V1 BEUR/WALBT",
+      address: "0x3ae7b5b0A44157a6092b676537B1e7d829577e39",
+      chainId: 137,
+      gauge: null,
+    },
+    {
       "name": "Arrakis Vault V1 WMATIC/WETH",
       "address": "0xdc0eca1d69ab51c2b2171c870a1506499081da5b",
       "chainId": 137,
