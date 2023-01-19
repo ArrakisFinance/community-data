@@ -772,6 +772,26 @@
         "rewardToken": "0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32",
         "rewardLength": 604800
       }
+    },
+    {
+      "name": "Arrakis Vault V1 OP/USDC",
+      "address": "0xa969a1BC401d27EcCD1cF60Bc53b78C27183E214",
+      "chainId": 10,
+      "gauge": {
+        "address": "0x7F3013aa21c784793Ae6420140d0703aaC1b76Be",
+        "rewardToken": "0x4200000000000000000000000000000000000042",
+        "rewardLength": 604800
+      } 
+    },
+    {
+      "name": "Arrakis Vault V1 wstETH/WETH",
+      "address": "0x3Dc6a6Ef1836F02D9FF29212c22e71fA3B74D1a9",
+      "chainId": 10,
+      "gauge": {
+        "address": "0xfF949C5Dcc4f48130b3459dAD15A793AB78b698A",
+        "rewardToken": "0x4200000000000000000000000000000000000042",
+        "rewardLength": 604800
+      }
     }
   ]
 }
