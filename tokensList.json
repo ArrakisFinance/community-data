@@ -717,6 +717,14 @@
         "symbol": "KWENTA",
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/Kwenta/brand-kit/main/assets/png/logo200x200%402x.png"
+    },
+    {
+      "address": "0x1F32b1c2345538c0c6f582fCB022739c4A194Ebb",
+      "chainId": 10,
+      "name": "Wrapped liquid staked Ether 2.0",
+      "symbol": "wstETH",
+      "decimals": 18,
+      "logoURI": "https://assets.dex.guru/icons/0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0-eth.png"
     }
   ]
 }
