@@ -725,6 +725,14 @@
       "symbol": "wstETH",
       "decimals": 18,
       "logoURI": "https://assets.dex.guru/icons/0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0-eth.png"
+    },
+    {
+      "address": "0xC1f33e0cf7e40a67375007104B929E49a581bafE",
+      "chainId": 1,
+      "name": "Spot",
+      "symbol": "SPOT",
+      "decimals": 9,
+      "logoURI": "https://assets.coingecko.com/coins/images/28426/small/SPOT_Logo_200x200_square.png"
     }
   ]
 }

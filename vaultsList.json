@@ -792,6 +792,12 @@
         "rewardToken": "0x4200000000000000000000000000000000000042",
         "rewardLength": 604800
       }
+    },
+    {
+      "name": "Arrakis Vault V1 SPOT/USDC",
+      "address": "0xdf367477c5e596af88e8797c3cde8e28854cb79c",
+      "chainId": 1,
+      "gauge": null
     }
   ]
 }
