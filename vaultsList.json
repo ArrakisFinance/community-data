@@ -748,7 +748,7 @@
       "gauge": {
         "address": "0x0fca3755B1DE447D15F8414f83FA650da255020F",
         "rewardToken": "0x25788a1a171ec66Da6502f9975a15B609fF54CF6",
-        "rewardLength": 604800
+        "rewardLength": 2419200
       }  
     },
     {
