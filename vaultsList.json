@@ -798,6 +798,12 @@
       "address": "0xdf367477c5e596af88e8797c3cde8e28854cb79c",
       "chainId": 1,
       "gauge": null
+    },
+    { 
+       "name": "Arrakis Vault V1 L2DAO/WETH",
+       "address": "0xB9b438D464C4ec38c8Eb04a9de2737B5a54cA878",
+       "chainId": 10,
+       "gauge": null
     }
   ]
 }
