@@ -802,7 +802,7 @@
     {
       "name": "Arrakis Vault V1 WETH/LYRA",
       "address": "0xE6f375A29cDd3B40fa7aA0932fF510D304D95FA6",
-      "chainId": 10,
+      "chainId": 1,
       "gauge": null
     }
   ]
