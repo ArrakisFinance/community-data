@@ -800,10 +800,16 @@
       "gauge": null
     },
     {
-      "name": "Arrakis Vault V1 WETH/LYRA",
+      "name": "Arrakis Vault V1 LYRA/WETH",
       "address": "0xE6f375A29cDd3B40fa7aA0932fF510D304D95FA6",
       "chainId": 1,
       "gauge": null
+    },
+    { 
+       "name": "Arrakis Vault V1 WETH/L2DAO",
+       "address": "0xB9b438D464C4ec38c8Eb04a9de2737B5a54cA878",
+       "chainId": 10,
+       "gauge": null
     }
   ]
 }
