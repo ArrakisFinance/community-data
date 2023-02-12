@@ -741,6 +741,30 @@
       "symbol": "LYRA",
       "decimals": 18,
       "logoURI": "https://assets.dex.guru/icons/0x50c5725949a6f0c72e6c4a641f24049a917db0cb-optimism.png"
+    },
+    {
+      "address": "0x9C9e5fD8bbc25984B178FdCE6117Defa39d2db39",
+      "chainId": 10,
+      "name": "Binance-Peg BUSD",
+      "symbol": "BUSD",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/binance-exchange/binance-official-docs/master/images/logo/Binance_US_Logo.png"
+    },
+    {
+      "address": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
+      "chainId": 10,
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.dex.guru/icons/0xdac17f958d2ee523a2206206994597c13d831ec7-eth.png"
+    },
+    {
+      "address": "0x68f180fcCe6836688e9084f035309E29Bf0A2095",
+      "chainId": 10,
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.dex.guru/icons/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599-eth.png"
     }
   ]
 }
