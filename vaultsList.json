@@ -804,66 +804,6 @@
        "address": "0xB9b438D464C4ec38c8Eb04a9de2737B5a54cA878",
        "chainId": 10,
        "gauge": null
-    },
-    {
-      "name": "Arrakis Vault V1 WETH/BUSD",
-      "address": "0x878659F6264E18E17dA107E8d3734Ab861ad86fF",
-      "chainId": 10,
-      "gauge": {
-        "address": "0xCd0923149a125275d175DeeF2Ee1982b2B095C91",
-        "rewardToken": "0x4200000000000000000000000000000000000042",
-        "rewardLength": 604800
-      }
-    },
-    {
-      "name": "Arrakis Vault V1 wstETH/BUSD",
-      "address": "0x2A0453E461121C8Fc4d9E1C039f5f6e6024cF891",
-      "chainId": 10,
-      "gauge": {
-        "address": "0x2B65eD2400025c48ee77B057b1c1a1FA7cD84DFb",
-        "rewardToken": "0x4200000000000000000000000000000000000042",
-        "rewardLength": 604800
-      }
-    },
-    {
-      "name": "Arrakis Vault V1 WBTC/BUSD",
-      "address": "0xA45284D34Cc13e99a97A32786bB0EDdFeF5b614A",
-      "chainId": 10,
-      "gauge": {
-        "address": "0x48A151421f9EA0E720E383df14aCe1DeF15189B0",
-        "rewardToken": "0x4200000000000000000000000000000000000042",
-        "rewardLength": 604800
-      }
-    },
-    {
-      "name": "Arrakis Vault V1 OP/BUSD",
-      "address": "0x6e45d2D32c52370c42a3b79b14216DF440D32b40",
-      "chainId": 10,
-      "gauge": {
-        "address": "0xB556f4A5AD53BbE5c6B99c0e7EE9F58Bd0fEB971",
-        "rewardToken": "0x4200000000000000000000000000000000000042",
-        "rewardLength": 604800
-      }
-    },
-    {
-      "name": "Arrakis Vault V1 USDT/BUSD",
-      "address": "0xfb3C437513DA08299ab4EeE1fe60E806d63cEBF6",
-      "chainId": 10,
-      "gauge": {
-        "address": "0x8044de2e2dD22ac7FF18A4d7C9Fff15f12B1569f",
-        "rewardToken": "0x4200000000000000000000000000000000000042",
-        "rewardLength": 604800
-      }
-    },
-    {
-      "name": "Arrakis Vault V1 USDC/BUSD",
-      "address": "0x72eDe7aC8A9764dFE136B5B0dD79ABC9C81dEE9a",
-      "chainId": 10,
-      "gauge": {
-        "address": "0x15a065B0AB032541146Fa3ca1cB382a22C94fe3F",
-        "rewardToken": "0x4200000000000000000000000000000000000042",
-        "rewardLength": 604800
-      }
     }
   ]
 }
