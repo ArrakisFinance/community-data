@@ -765,6 +765,14 @@
       "symbol": "WBTC",
       "decimals": 8,
       "logoURI": "https://assets.dex.guru/icons/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599-eth.png"
+    },
+    {
+      "address": "0x7FBc10850caE055B27039aF31bD258430e714c62",
+      "chainId": 137,
+      "name": "UniBright",
+      "symbol": "UBT",
+      "decimals": 18,
+      "logoURI": "https://assets.dex.guru/icons/0x7fbc10850cae055b27039af31bd258430e714c62-polygon.png"
     }
   ]
 }

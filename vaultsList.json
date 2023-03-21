@@ -746,7 +746,17 @@
       }  
     },
     {
-      "name": "Arrakis Vault V1 L2DAO/OP POOL",
+      "name": "Arrakis Vault V1 WETH/UBT",
+      "address": "0xD267c71d7f3dA15D6917cbAFEA3b5138E117E8A7",
+      "chainId": 137,
+      "gauge": {
+        "address": "0xb76359a71843BcEF4cc749f0F0cF1a2672f604Ba",
+        "rewardToken": "0x7FBc10850caE055B27039aF31bD258430e714c62",
+        "rewardLength": 2419200
+      }  
+    },
+    {
+      "name": "Arrakis Vault V1 L2DAO/OP",
       "address":  "0x9BaB05652613D9668b4B8a1bD11e21Db114Ea362",
       "chainId": 10,
       "gauge": null
