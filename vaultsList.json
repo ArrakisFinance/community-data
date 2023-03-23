@@ -508,12 +508,6 @@
       "gauge": null
     },
     {
-      "name": "Arrakis Vault V1 UBT/USDC",
-      "address": "0x8DE40d47a3cb47E5614BB970A1070d1B96e1197d",
-      "chainId": 137,
-      "gauge": null
-    },
-    {
       "name": "Arrakis Vault V1 USDC/CAW",
       "address": "0xF920baf4fF3e803244C680FFdd468677f50C07B7",
       "chainId": 1,
@@ -894,6 +888,12 @@
         "rewardToken": "0x4200000000000000000000000000000000000042",
         "rewardLength": 604800
       }  
+    },
+    {
+      "name": "Arrakis Vault V1 WETH/ARB",
+      "address": "0xd2e386214b1cF1E5790dE69d8A957cF874A835A4",
+      "chainId": 42161,
+      "gauge": null
     }
   ]
 }
