@@ -695,6 +695,14 @@
       "logoURI": "https://assets-stage.dex.guru/icons/0xda10009cbd5d07dd0cecc66161fc93d7c9000da1-arbitrum.png"
     },
     {
+      "address": "0x912ce59144191c1204e64559fe8253a0e49e6548",
+      "chainId": 42161,
+      "name": "Arbitrum",
+      "symbol": "ARB",
+      "decimals": 18,
+      "logoURI": "https://assets-stage.dex.guru/icons/0x912ce59144191c1204e64559fe8253a0e49e6548-arbitrum.png"
+    },
+    {
       "address": "0x25788a1a171ec66Da6502f9975a15B609fF54CF6",
       "chainId": 137,
       "name": "PoolTogether DAO (POS)",
