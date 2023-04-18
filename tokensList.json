@@ -781,6 +781,14 @@
       "symbol": "UBT",
       "decimals": 18,
       "logoURI": "https://assets.dex.guru/icons/0x7fbc10850cae055b27039af31bd258430e714c62-polygon.png"
+    },
+    {
+      "address": "0xadDb6A0412DE1BA0F936DCaeb8Aaa24578dcF3B2",
+      "chainId": 10,
+      "name": "Coinbase Wrapped Staked ETH",
+      "symbol": "cbETH",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/cbeth_32.png"
     }
   ]
 }

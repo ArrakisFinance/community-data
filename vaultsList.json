@@ -890,6 +890,16 @@
       }  
     },
     {
+      "name": "Arrakis Vault V1 WETH/cbETH",
+      "address": "0xEb39899CCe9e32535aF4568b25326ee9452C6E6a",
+      "chainId": 10,
+      "gauge": {
+        "address": "0xCCD64BF6AfCD973DC2cb15314d9fC674F093C7D2",
+        "rewardToken": "0x4200000000000000000000000000000000000042",
+        "rewardLength": 604800
+      }  
+    },
+    {
       "name": "Arrakis Vault V1 WETH/ARB",
       "address": "0xd2e386214b1cF1E5790dE69d8A957cF874A835A4",
       "chainId": 42161,
