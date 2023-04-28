@@ -894,7 +894,7 @@
       "address": "0xEb39899CCe9e32535aF4568b25326ee9452C6E6a",
       "chainId": 10,
       "gauge": {
-        "address": "0xCCD64BF6AfCD973DC2cb15314d9fC674F093C7D2",
+        "address": "0x212F71bFF67E5b7795952a916598c4b64bA48741",
         "rewardToken": "0x4200000000000000000000000000000000000042",
         "rewardLength": 604800
       }  
