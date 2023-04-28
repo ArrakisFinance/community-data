@@ -900,6 +900,86 @@
       }  
     },
     {
+      "name": "Arrakis Vault V1 wstETH/WBTC",
+      "address": "0xdAe76449BcD5FC51207B4D360210CF02873136b3",
+      "chainId": 10,
+      "gauge": {
+        "address": "0x7E232AEed14446d427579B4f77251552B065dF00",
+        "rewardToken": "0x4200000000000000000000000000000000000042",
+        "rewardLength": 2419200
+      }  
+    },
+    {
+      "name": "Arrakis Vault V1 wstETH/WETH",
+      "address": "0xBe6ef8F9187574D1D7391457Ac402d7843e59197",
+      "chainId": 10,
+      "gauge": {
+        "address": "0xC36681303c7A41b045636aF915486b22214B6292",
+        "rewardToken": "0x4200000000000000000000000000000000000042",
+        "rewardLength": 2419200
+      }  
+    },
+    {
+      "name": "Arrakis Vault V1 wstETH/USDC",
+      "address": "0x51330d78816589fdc18de01EdF032594ca624479",
+      "chainId": 10,
+      "gauge": {
+        "address": "0x24C95f333755bbeDBaE14B461770c9ec3F6E9d0D",
+        "rewardToken": "0x4200000000000000000000000000000000000042",
+        "rewardLength": 2419200
+      }  
+    },
+    {
+      "name": "Arrakis Vault V1 wstETH/USDT",
+      "address": "0x7F832cf4C91D6a1D6F991FAf4282F596fe517389",
+      "chainId": 10,
+      "gauge": {
+        "address": "0xDedD02E7Da507Fe2aC09C509DA10B94483e80Aa5",
+        "rewardToken": "0x4200000000000000000000000000000000000042",
+        "rewardLength": 2419200
+      }  
+    },
+    {
+      "name": "Arrakis Vault V1 USDC/USDT",
+      "address": "0x4c677F67b0D4b55DA85D5b927259A700BA3Da708",
+      "chainId": 10,
+      "gauge": {
+        "address": "0xF78daF7A425098D255bD142D71bBdD8dCf43Ee6c",
+        "rewardToken": "0x4200000000000000000000000000000000000042",
+        "rewardLength": 2419200
+      }  
+    },
+    {
+      "name": "Arrakis Vault V1 USDC/DAI",
+      "address": "0xa2EA10d2E018cdFa656e129fD187Cfa84F527557",
+      "chainId": 10,
+      "gauge": {
+        "address": "0x499B7CBd0f84318feE1edDeD7B5458f6F4500AB3",
+        "rewardToken": "0x4200000000000000000000000000000000000042",
+        "rewardLength": 2419200
+      }  
+    },
+    {
+      "name": "Arrakis Vault V1 WETH/WBTC",
+      "address": "0x1DA8f3DaC2feF4Ad18852403668eDe241B2585AB",
+      "chainId": 10,
+      "gauge": {
+        "address": "0x1535eC8C7477d38066326189f5b1C695c2846479",
+        "rewardToken": "0x4200000000000000000000000000000000000042",
+        "rewardLength": 2419200
+      }  
+    },
+    {
+      "name": "Arrakis Vault V1 WETH/USDC",
+      "address": "0x1045387eFbF2f2C6B8e23d5F4C13Cb670c9C86D5",
+      "chainId": 10,
+      "gauge": {
+        "address": "0x43667563725040fEBE9BF5164a38B7258105a210",
+        "rewardToken": "0x4200000000000000000000000000000000000042",
+        "rewardLength": 2419200
+      }  
+    },
+    {
       "name": "Arrakis Vault V1 WETH/ARB",
       "address": "0xd2e386214b1cF1E5790dE69d8A957cF874A835A4",
       "chainId": 42161,
