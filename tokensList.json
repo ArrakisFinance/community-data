@@ -679,6 +679,14 @@
       "logoURI": "https://raw.githubusercontent.com/hanchain-paykhan/hanchain/3058eecc5d26f980db884f1318da6c4de18a7aea/logo/logo.svg"
     },
     {
+      "chainId": 10,
+      "address": "0xC3248A1bd9D72fa3DA6E6ba701E58CbF818354eB",
+      "decimals": 18,
+      "name": "HANePlatform",
+      "symbol": "HANeP",
+      "logoURI": "https://raw.githubusercontent.com/hanchain-paykhan/HANePlatform/4e3501186fd609d83f1105fca67ecd0b4bbbec16/logo/HANeP_logo.svg"
+    },
+    {
       "address": "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
       "chainId": 137,
       "name": "BOB",

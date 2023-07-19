@@ -648,6 +648,12 @@
       "gauge": null
     },
     {
+      "name": "Arrakis Vault V1 WETH/HANeP",
+      "address": "0xbD2545D0A193b8B441745F38F1FdB60179C01Cf9",
+      "chainId": 10,
+      "gauge": null
+    },
+    {
       "name": "Arrakis Vault V1 DAI/MAI",
       "address": "0xB197f73B582f76cfc96d269a3A99A3604316BA47",
       "chainId": 137,
