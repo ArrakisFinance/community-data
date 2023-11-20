@@ -466,12 +466,6 @@
       "gauge": null
     },
     {
-      "name": "Arrakis Vault V1 FAITH/MILAREPA",
-      "address": "0xef4c2568Be52DDb79a4AfA7147f15EE600b7E335",
-      "chainId": 1,
-      "gauge": null
-    },
-    {
       "name": "Arrakis Vault V1 FAITH/USDC",
       "address": "0x39703B0B92463c3fb3A0E9ea90926aA4f6c3283e",
       "chainId": 1,
